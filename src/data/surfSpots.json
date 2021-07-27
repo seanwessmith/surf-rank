@@ -1,0 +1,5475 @@
+[
+  {
+    "_id": "58581a836630e24c44878fcb",
+    "subregion": {
+      "id": "58581a836630e24c44878fcb",
+      "name": "North Shore Oahu",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "Hawaii",
+      "territory": "O‘ahu",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44878fcc",
+    "subregion": {
+      "id": "58581a836630e24c44878fcc",
+      "name": "West Side Oahu",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "Hawaii",
+      "territory": "O‘ahu",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44878fcd",
+    "subregion": {
+      "id": "58581a836630e24c44878fcd",
+      "name": "South Shore Oahu",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "Hawaii",
+      "territory": "O‘ahu",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44878fce",
+    "subregion": {
+      "id": "58581a836630e24c44878fce",
+      "name": "Windward Side Oahu",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "Hawaii",
+      "territory": "O‘ahu",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44878fcf",
+    "subregion": {
+      "id": "58581a836630e24c44878fcf",
+      "name": "South Hawaii",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "Hawaii",
+      "territory": "Island of Hawai‘i",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44878fd0",
+    "subregion": {
+      "id": "58581a836630e24c44878fd0",
+      "name": "Washington",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "Washington",
+      "territory": "Grays Harbor County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44878fd1",
+    "subregion": {
+      "id": "58581a836630e24c44878fd1",
+      "name": "Oregon",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "Oregon",
+      "territory": "Tillamook County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44878fd2",
+    "subregion": {
+      "id": "58581a836630e24c44878fd2",
+      "name": "Humboldt",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "California",
+      "territory": "Humboldt County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44878fd4",
+    "subregion": {
+      "id": "58581a836630e24c44878fd4",
+      "name": "Santa Barbara",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "California",
+      "territory": "Santa Barbara County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44878fd5",
+    "subregion": {
+      "id": "58581a836630e24c44878fd5",
+      "name": "North Los Angeles",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "California",
+      "territory": "Los Angeles County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44878fd6",
+    "subregion": {
+      "id": "58581a836630e24c44878fd6",
+      "name": "North Orange County",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "California",
+      "territory": "Orange County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44878fd7",
+    "subregion": {
+      "id": "58581a836630e24c44878fd7",
+      "name": "North San Diego",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "California",
+      "territory": "San Diego",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44878fd8",
+    "subregion": {
+      "id": "58581a836630e24c44878fd8",
+      "name": "Cape Cod",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "Massachusetts",
+      "territory": "Barnstable County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44878fd9",
+    "subregion": {
+      "id": "58581a836630e24c44878fd9",
+      "name": "Suffolk County",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "New York",
+      "territory": "Suffolk County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44878fda",
+    "subregion": {
+      "id": "58581a836630e24c44878fda",
+      "name": "South New Jersey",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "New Jersey",
+      "territory": "Ocean County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44878fdc",
+    "subregion": {
+      "id": "58581a836630e24c44878fdc",
+      "name": "Virginia",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "Virginia",
+      "territory": "City of Virginia Beach",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44878fdd",
+    "subregion": {
+      "id": "58581a836630e24c44878fdd",
+      "name": "Northern Outer Banks",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "North Carolina",
+      "territory": "Dare County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44878fde",
+    "subregion": {
+      "id": "58581a836630e24c44878fde",
+      "name": "Crystal Coast",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "North Carolina",
+      "territory": "Carteret County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44878fdf",
+    "subregion": {
+      "id": "58581a836630e24c44878fdf",
+      "name": "South Carolina",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "South Carolina",
+      "territory": "Charleston County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44878fe0",
+    "subregion": {
+      "id": "58581a836630e24c44878fe0",
+      "name": "Volusia County",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "Florida",
+      "territory": "Volusia County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44878fe1",
+    "subregion": {
+      "id": "58581a836630e24c44878fe1",
+      "name": "Central Florida",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "Florida",
+      "territory": "Brevard County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44878fe2",
+    "subregion": {
+      "id": "58581a836630e24c44878fe2",
+      "name": "Treasure Coast",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "Florida",
+      "territory": "Martin County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44878fe3",
+    "subregion": {
+      "id": "58581a836630e24c44878fe3",
+      "name": "West Florida",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "Florida",
+      "territory": "Sarasota County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44878fe4",
+    "subregion": {
+      "id": "58581a836630e24c44878fe4",
+      "name": "Ensenada",
+      "forecasterEmail": "",
+      "country": "Mexico",
+      "state": "Baja California",
+      "territory": "Tijuana",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44878fe5",
+    "subregion": {
+      "id": "58581a836630e24c44878fe5",
+      "name": "Cabo",
+      "forecasterEmail": "",
+      "country": "Mexico",
+      "state": "Baja California Sur",
+      "territory": "Los Cabos Municipality",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44878fe6",
+    "subregion": {
+      "id": "58581a836630e24c44878fe6",
+      "name": "Riviera Nayarit Area",
+      "forecasterEmail": "",
+      "country": "Mexico",
+      "state": "Nayarit",
+      "territory": "Bahía de Banderas",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44878fe7",
+    "subregion": {
+      "id": "58581a836630e24c44878fe7",
+      "name": "North Bahamas",
+      "forecasterEmail": "",
+      "country": "Bahamas",
+      "state": "Central Abaco District",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44878fe8",
+    "subregion": {
+      "id": "58581a836630e24c44878fe8",
+      "name": "Northwest Puerto Rico",
+      "forecasterEmail": "",
+      "country": "Puerto Rico",
+      "state": "Rincón Municipio",
+      "territory": "Rincón Barrio-Pueblo",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44878fe9",
+    "subregion": {
+      "id": "58581a836630e24c44878fe9",
+      "name": "Barbados East Coast",
+      "forecasterEmail": "",
+      "country": "Barbados",
+      "state": "Saint Joseph",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44878fea",
+    "subregion": {
+      "id": "58581a836630e24c44878fea",
+      "name": "Central Costa Rica",
+      "forecasterEmail": "",
+      "country": "Costa Rica",
+      "state": "Provincia de Puntarenas",
+      "territory": "Garabito",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44878feb",
+    "subregion": {
+      "id": "58581a836630e24c44878feb",
+      "name": "Panama Pacific",
+      "forecasterEmail": "",
+      "country": "Panama",
+      "state": "Provincia de Los Santos",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44878fec",
+    "subregion": {
+      "id": "58581a836630e24c44878fec",
+      "name": "Southern Peru",
+      "forecasterEmail": "",
+      "country": "Peru",
+      "state": "Lima region",
+      "territory": "Lima",
+      "subterritory": "Punta Hermosa",
+      "subsubterritory": "Punta Hermosa"
+    }
+  },
+  {
+    "_id": "58581a836630e24c44878fed",
+    "subregion": {
+      "id": "58581a836630e24c44878fed",
+      "name": "Alagoas",
+      "forecasterEmail": "",
+      "country": "Brazil",
+      "state": "Alagoas",
+      "territory": "Maceió",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44878fee",
+    "subregion": {
+      "id": "58581a836630e24c44878fee",
+      "name": "Mentawais",
+      "forecasterEmail": "",
+      "country": "Indonesia",
+      "state": "Bengkulu",
+      "territory": "Mukomuko",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44878fef",
+    "subregion": {
+      "id": "58581a836630e24c44878fef",
+      "name": "Bali",
+      "forecasterEmail": "",
+      "country": "Indonesia",
+      "state": "Bali",
+      "territory": "Bali",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44878ff0",
+    "subregion": {
+      "id": "58581a836630e24c44878ff0",
+      "name": "North Devon",
+      "forecasterEmail": "",
+      "country": "United Kingdom",
+      "state": "England",
+      "territory": "Devon",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44878ff1",
+    "subregion": {
+      "id": "58581a836630e24c44878ff1",
+      "name": "West Ireland",
+      "forecasterEmail": "",
+      "country": "Ireland",
+      "state": "Connaught",
+      "territory": "County Sligo",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44878ff2",
+    "subregion": {
+      "id": "58581a836630e24c44878ff2",
+      "name": "Panhandle",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "Florida",
+      "territory": "Bay County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44878ff5",
+    "subregion": {
+      "id": "58581a836630e24c44878ff5",
+      "name": "Northern NSW",
+      "forecasterEmail": "",
+      "country": "Australia",
+      "state": "New South Wales",
+      "territory": "Byron Shire",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44878ff6",
+    "subregion": {
+      "id": "58581a836630e24c44878ff6",
+      "name": "Nagasaki",
+      "forecasterEmail": "",
+      "country": "Japan",
+      "state": "Kumamoto",
+      "territory": "Amakusa Shi",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44878ff7",
+    "subregion": {
+      "id": "58581a836630e24c44878ff7",
+      "name": "Iceland",
+      "forecasterEmail": "",
+      "country": "Iceland",
+      "state": "Southern Peninsula",
+      "territory": "Sveitarfélagið Garður",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44878ff8",
+    "subregion": {
+      "id": "58581a836630e24c44878ff8",
+      "name": "Northeast Spain",
+      "forecasterEmail": "",
+      "country": "Spain",
+      "state": "Basque Country",
+      "territory": "Biscay",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44878ff9",
+    "subregion": {
+      "id": "58581a836630e24c44878ff9",
+      "name": "Fiji North",
+      "forecasterEmail": "",
+      "country": "Fiji",
+      "state": "Northern",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44878ffa",
+    "subregion": {
+      "id": "58581a836630e24c44878ffa",
+      "name": "Fiji South",
+      "forecasterEmail": "",
+      "country": "Fiji",
+      "state": "Western",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44878ffb",
+    "subregion": {
+      "id": "58581a836630e24c44878ffb",
+      "name": "Tahiti North",
+      "forecasterEmail": "",
+      "country": "French Polynesia",
+      "state": "Vairao",
+      "territory": "Tahiti",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44878ffc",
+    "subregion": {
+      "id": "58581a836630e24c44878ffc",
+      "name": "Tahiti South",
+      "forecasterEmail": "",
+      "country": "French Polynesia",
+      "state": "Vairao",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44878ffd",
+    "subregion": {
+      "id": "58581a836630e24c44878ffd",
+      "name": "Northeast Puerto Rico",
+      "forecasterEmail": "",
+      "country": "Puerto Rico",
+      "state": "San Juan",
+      "territory": "San Juan Antiguo Barrio",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44878ffe",
+    "subregion": {
+      "id": "58581a836630e24c44878ffe",
+      "name": "Miyagi",
+      "forecasterEmail": "",
+      "country": "Japan",
+      "state": "Miyagi",
+      "territory": "Sendai Shi",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44878fff",
+    "subregion": {
+      "id": "58581a836630e24c44878fff",
+      "name": "Okinawa",
+      "forecasterEmail": "",
+      "country": "Japan",
+      "state": "Okinawa",
+      "territory": "Ginowan Shi",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879000",
+    "subregion": {
+      "id": "58581a836630e24c44879000",
+      "name": "East Java",
+      "forecasterEmail": "",
+      "country": "Indonesia",
+      "state": "Java",
+      "territory": "East Java",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879001",
+    "subregion": {
+      "id": "58581a836630e24c44879001",
+      "name": "Maldives",
+      "forecasterEmail": "",
+      "country": "Maldives",
+      "state": "Kaafu Atoll",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879002",
+    "subregion": {
+      "id": "58581a836630e24c44879002",
+      "name": "Samoa North",
+      "forecasterEmail": "",
+      "country": "Samoa",
+      "state": "Atua",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879003",
+    "subregion": {
+      "id": "58581a836630e24c44879003",
+      "name": "Easter Island",
+      "forecasterEmail": "",
+      "country": "Chile",
+      "state": "Región de Valparaíso",
+      "territory": "Easter Island",
+      "subterritory": "Provincia de Isla de Pascua",
+      "subsubterritory": "Provincia de Isla de Pascua"
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879004",
+    "subregion": {
+      "id": "58581a836630e24c44879004",
+      "name": "Puerto Escondido Area",
+      "forecasterEmail": "",
+      "country": "Mexico",
+      "state": "Oaxaca",
+      "territory": "Santa María Colotepec",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879005",
+    "subregion": {
+      "id": "58581a836630e24c44879005",
+      "name": "Sergipe",
+      "forecasterEmail": "",
+      "country": "Brazil",
+      "state": "Sergipe",
+      "territory": "Japaratuba",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879006",
+    "subregion": {
+      "id": "58581a836630e24c44879006",
+      "name": "Espirito Santo",
+      "forecasterEmail": "",
+      "country": "Brazil",
+      "state": "Espírito Santo",
+      "territory": "Linhares",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879007",
+    "subregion": {
+      "id": "58581a836630e24c44879007",
+      "name": "Mendocino",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "California",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879008",
+    "subregion": {
+      "id": "58581a836630e24c44879008",
+      "name": "Sonoma County",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "California",
+      "territory": "Sonoma County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879009",
+    "subregion": {
+      "id": "58581a836630e24c44879009",
+      "name": "Marin County",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "California",
+      "territory": "Marin County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487900a",
+    "subregion": {
+      "id": "58581a836630e24c4487900a",
+      "name": "South Orange County",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "California",
+      "territory": "Orange County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487900b",
+    "subregion": {
+      "id": "58581a836630e24c4487900b",
+      "name": "South Los Angeles",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "California",
+      "territory": "Los Angeles County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487900c",
+    "subregion": {
+      "id": "58581a836630e24c4487900c",
+      "name": "Ventura",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "California",
+      "territory": "Ventura County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487900d",
+    "subregion": {
+      "id": "58581a836630e24c4487900d",
+      "name": "South San Diego",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "California",
+      "territory": "San Diego",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487900e",
+    "subregion": {
+      "id": "58581a836630e24c4487900e",
+      "name": "Southwest France",
+      "forecasterEmail": "",
+      "country": "France",
+      "state": "Nouvelle-Aquitaine",
+      "territory": "Landes",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487900f",
+    "subregion": {
+      "id": "58581a836630e24c4487900f",
+      "name": "Zona Oeste Portugal",
+      "forecasterEmail": "",
+      "country": "Portugal",
+      "state": "Lisbon",
+      "territory": "Mafra Municipality",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879010",
+    "subregion": {
+      "id": "58581a836630e24c44879010",
+      "name": "San Francisco",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "California",
+      "territory": "San Francisco County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879011",
+    "subregion": {
+      "id": "58581a836630e24c44879011",
+      "name": "Santa Cruz",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "California",
+      "territory": "Santa Cruz County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879012",
+    "subregion": {
+      "id": "58581a836630e24c44879012",
+      "name": "Monterey",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "California",
+      "territory": "Monterey County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879013",
+    "subregion": {
+      "id": "58581a836630e24c44879013",
+      "name": "Big Sur",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "California",
+      "territory": "Monterey County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879014",
+    "subregion": {
+      "id": "58581a836630e24c44879014",
+      "name": "San Luis Obispo County",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "California",
+      "territory": "San Luis Obispo County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879015",
+    "subregion": {
+      "id": "58581a836630e24c44879015",
+      "name": "North Santa Barbara County",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "California",
+      "territory": "Santa Barbara County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879016",
+    "subregion": {
+      "id": "58581a836630e24c44879016",
+      "name": "San Quintin",
+      "forecasterEmail": "",
+      "country": "Mexico",
+      "state": "Baja California",
+      "territory": "Ensenada Municipality",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879017",
+    "subregion": {
+      "id": "58581a836630e24c44879017",
+      "name": "Punta Baja",
+      "forecasterEmail": "",
+      "country": "Mexico",
+      "state": "Baja California",
+      "territory": "Ensenada Municipality",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879018",
+    "subregion": {
+      "id": "58581a836630e24c44879018",
+      "name": "Punta Rosarito",
+      "forecasterEmail": "",
+      "country": "Mexico",
+      "state": "Baja California",
+      "territory": "Ensenada Municipality",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879019",
+    "subregion": {
+      "id": "58581a836630e24c44879019",
+      "name": "Punta Eugenia",
+      "forecasterEmail": "",
+      "country": "Mexico",
+      "state": "Baja California Sur",
+      "territory": "Mulegé Municipality",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487901a",
+    "subregion": {
+      "id": "58581a836630e24c4487901a",
+      "name": "Abreojos",
+      "forecasterEmail": "",
+      "country": "Mexico",
+      "state": "Baja California Sur",
+      "territory": "Mulegé Municipality",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487901b",
+    "subregion": {
+      "id": "58581a836630e24c4487901b",
+      "name": "Southern Points Region",
+      "forecasterEmail": "",
+      "country": "Mexico",
+      "state": "Baja California Sur",
+      "territory": "Loreto",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487901c",
+    "subregion": {
+      "id": "58581a836630e24c4487901c",
+      "name": "Magdalena Bay",
+      "forecasterEmail": "",
+      "country": "Mexico",
+      "state": "Baja California Sur",
+      "territory": "Comondú Municipality",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487901d",
+    "subregion": {
+      "id": "58581a836630e24c4487901d",
+      "name": "Conejo",
+      "forecasterEmail": "",
+      "country": "Mexico",
+      "state": "Baja California Sur",
+      "territory": "La Paz",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487901e",
+    "subregion": {
+      "id": "58581a836630e24c4487901e",
+      "name": "North Costa Rica",
+      "forecasterEmail": "",
+      "country": "Costa Rica",
+      "state": "Provincia de Guanacaste",
+      "territory": "Nicoya",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487901f",
+    "subregion": {
+      "id": "58581a836630e24c4487901f",
+      "name": "Caribbean Costa Rica",
+      "forecasterEmail": "",
+      "country": "Costa Rica",
+      "state": "Provincia de Limón",
+      "territory": "Limón",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879020",
+    "subregion": {
+      "id": "58581a836630e24c44879020",
+      "name": "Central Peru",
+      "forecasterEmail": "",
+      "country": "Peru",
+      "state": "La Libertad",
+      "territory": "Ascope",
+      "subterritory": "Santiago De Cao",
+      "subsubterritory": "Santiago De Cao"
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879021",
+    "subregion": {
+      "id": "58581a836630e24c44879021",
+      "name": "Northern Chile",
+      "forecasterEmail": "",
+      "country": "Chile",
+      "state": "Tarapacá",
+      "territory": "Provincia de Iquique",
+      "subterritory": "Iquique",
+      "subsubterritory": "Iquique"
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879022",
+    "subregion": {
+      "id": "58581a836630e24c44879022",
+      "name": "Southern Chile",
+      "forecasterEmail": "",
+      "country": "Chile",
+      "state": "Maule",
+      "territory": "Provincia de Talca",
+      "subterritory": "Constitucion",
+      "subsubterritory": "Constitucion"
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879023",
+    "subregion": {
+      "id": "58581a836630e24c44879023",
+      "name": "Central Argentina",
+      "forecasterEmail": "",
+      "country": "Argentina",
+      "state": "Buenos Aires",
+      "territory": "Partido de General Pueyrredón",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879024",
+    "subregion": {
+      "id": "58581a836630e24c44879024",
+      "name": "Sydney",
+      "forecasterEmail": "",
+      "country": "Australia",
+      "state": "New South Wales",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879025",
+    "subregion": {
+      "id": "58581a836630e24c44879025",
+      "name": "South Coast NSW",
+      "forecasterEmail": "",
+      "country": "Australia",
+      "state": "New South Wales",
+      "territory": "Shoalhaven Shire",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879026",
+    "subregion": {
+      "id": "58581a836630e24c44879026",
+      "name": "Northern Queensland",
+      "forecasterEmail": "",
+      "country": "Australia",
+      "state": "Queensland",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879027",
+    "subregion": {
+      "id": "58581a836630e24c44879027",
+      "name": "Gold Coast",
+      "forecasterEmail": "",
+      "country": "Australia",
+      "state": "Queensland",
+      "territory": "Gold Coast",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879028",
+    "subregion": {
+      "id": "58581a836630e24c44879028",
+      "name": "Sunshine Coast",
+      "forecasterEmail": "",
+      "country": "Australia",
+      "state": "Queensland",
+      "territory": "Sunshine Coast",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879029",
+    "subregion": {
+      "id": "58581a836630e24c44879029",
+      "name": "North Island Tasman",
+      "forecasterEmail": "",
+      "country": "New Zealand",
+      "state": "",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487902a",
+    "subregion": {
+      "id": "58581a836630e24c4487902a",
+      "name": "North Island Pacific",
+      "forecasterEmail": "",
+      "country": "New Zealand",
+      "state": "North Island",
+      "territory": "Gisborne",
+      "subterritory": "Gisborne District",
+      "subsubterritory": "Gisborne District"
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487902b",
+    "subregion": {
+      "id": "58581a836630e24c4487902b",
+      "name": "Western Victoria",
+      "forecasterEmail": "",
+      "country": "Australia",
+      "state": "Victoria",
+      "territory": "Warrnambool City",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487902c",
+    "subregion": {
+      "id": "58581a836630e24c4487902c",
+      "name": "Mornington Peninsula - Phillip Island",
+      "forecasterEmail": "",
+      "country": "Australia",
+      "state": "Victoria",
+      "territory": "Bass Coast",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487902d",
+    "subregion": {
+      "id": "58581a836630e24c4487902d",
+      "name": "Yorke Peninsula",
+      "forecasterEmail": "",
+      "country": "Australia",
+      "state": "South Australia",
+      "territory": "Yorke Peninsula",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487902e",
+    "subregion": {
+      "id": "58581a836630e24c4487902e",
+      "name": "West Coast",
+      "forecasterEmail": "",
+      "country": "Australia",
+      "state": "South Australia",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487902f",
+    "subregion": {
+      "id": "58581a836630e24c4487902f",
+      "name": "Australia North Coast",
+      "forecasterEmail": "",
+      "country": "Australia",
+      "state": "Western Australia",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879030",
+    "subregion": {
+      "id": "58581a836630e24c44879030",
+      "name": "Tasmania",
+      "forecasterEmail": "",
+      "country": "Australia",
+      "state": "Tasmania",
+      "territory": "Clarence",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879031",
+    "subregion": {
+      "id": "58581a836630e24c44879031",
+      "name": "Southwest Australia",
+      "forecasterEmail": "",
+      "country": "Australia",
+      "state": "Western Australia",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879032",
+    "subregion": {
+      "id": "58581a836630e24c44879032",
+      "name": "South Island Tasman",
+      "forecasterEmail": "",
+      "country": "New Zealand",
+      "state": "West Coast",
+      "territory": "Grey District",
+      "subterritory": "Greymouth",
+      "subsubterritory": "Greymouth"
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879033",
+    "subregion": {
+      "id": "58581a836630e24c44879033",
+      "name": "South Island Pacific",
+      "forecasterEmail": "",
+      "country": "New Zealand",
+      "state": "South Island",
+      "territory": "Canterbury",
+      "subterritory": "Selwyn District",
+      "subsubterritory": "Selwyn District"
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879034",
+    "subregion": {
+      "id": "58581a836630e24c44879034",
+      "name": "West Coast/Cape Peninsula",
+      "forecasterEmail": "",
+      "country": "",
+      "state": "",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879035",
+    "subregion": {
+      "id": "58581a836630e24c44879035",
+      "name": "Southern Cape",
+      "forecasterEmail": "",
+      "country": "South Africa",
+      "state": "Western Cape",
+      "territory": "Eden District Municipality",
+      "subterritory": "George",
+      "subsubterritory": "George"
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879036",
+    "subregion": {
+      "id": "58581a836630e24c44879036",
+      "name": "Jeffreys Bay",
+      "forecasterEmail": "",
+      "country": "South Africa",
+      "state": "Eastern Cape",
+      "territory": "Cacadu District Municipality",
+      "subterritory": "Kouga",
+      "subsubterritory": "Kouga"
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879037",
+    "subregion": {
+      "id": "58581a836630e24c44879037",
+      "name": "Eastern Cape",
+      "forecasterEmail": "",
+      "country": "South Africa",
+      "state": "Eastern Cape",
+      "territory": "Buffalo City Metropolitan Municipality",
+      "subterritory": "Buffalo City",
+      "subsubterritory": "Buffalo City"
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879038",
+    "subregion": {
+      "id": "58581a836630e24c44879038",
+      "name": "Wild Coast/KwaZulu-Natal",
+      "forecasterEmail": "",
+      "country": "",
+      "state": "",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879039",
+    "subregion": {
+      "id": "58581a836630e24c44879039",
+      "name": "North Kauai",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "Hawaii",
+      "territory": "Kauai Island",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487903a",
+    "subregion": {
+      "id": "58581a836630e24c4487903a",
+      "name": "Nicaragua - Pacific Side",
+      "forecasterEmail": "",
+      "country": "Nicaragua",
+      "state": "Departamento de Rivas",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487903c",
+    "subregion": {
+      "id": "58581a836630e24c4487903c",
+      "name": "South Kauai",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "Hawaii",
+      "territory": "Kauai Island",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487903d",
+    "subregion": {
+      "id": "58581a836630e24c4487903d",
+      "name": "Upper Westside Maui",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "Hawaii",
+      "territory": "Maui",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487903e",
+    "subregion": {
+      "id": "58581a836630e24c4487903e",
+      "name": "Southwest Maui",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "Hawaii",
+      "territory": "Maui",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487903f",
+    "subregion": {
+      "id": "58581a836630e24c4487903f",
+      "name": "Guatemala Pacific",
+      "forecasterEmail": "",
+      "country": "Guatemala",
+      "state": "Departamento de Escuintla",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879040",
+    "subregion": {
+      "id": "58581a836630e24c44879040",
+      "name": "El Salvador",
+      "forecasterEmail": "",
+      "country": "El Salvador",
+      "state": "Departamento de La Libertad",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879041",
+    "subregion": {
+      "id": "58581a836630e24c44879041",
+      "name": "Central Ecuador",
+      "forecasterEmail": "",
+      "country": "Ecuador",
+      "state": "Provincia de Manabí",
+      "territory": "Cantón Manta",
+      "subterritory": "Manta",
+      "subsubterritory": "Manta"
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879043",
+    "subregion": {
+      "id": "58581a836630e24c44879043",
+      "name": "Central Texas",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "Texas",
+      "territory": "Nueces County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879044",
+    "subregion": {
+      "id": "58581a836630e24c44879044",
+      "name": "North Texas",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "Texas",
+      "territory": "Galveston County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879045",
+    "subregion": {
+      "id": "58581a836630e24c44879045",
+      "name": "South Texas",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "Texas",
+      "territory": "Cameron County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879046",
+    "subregion": {
+      "id": "58581a836630e24c44879046",
+      "name": "Mazatlan Area",
+      "forecasterEmail": "",
+      "country": "Mexico",
+      "state": "Sinaloa",
+      "territory": "Elota",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879047",
+    "subregion": {
+      "id": "58581a836630e24c44879047",
+      "name": "Manzanillo Area",
+      "forecasterEmail": "",
+      "country": "Mexico",
+      "state": "Colima",
+      "territory": "Armería",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879048",
+    "subregion": {
+      "id": "58581a836630e24c44879048",
+      "name": "Lazaro Cardenas Area",
+      "forecasterEmail": "",
+      "country": "Mexico",
+      "state": "Michoacán",
+      "territory": "Lázaro Cárdenas",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879049",
+    "subregion": {
+      "id": "58581a836630e24c44879049",
+      "name": "Acapulco Area",
+      "forecasterEmail": "",
+      "country": "Mexico",
+      "state": "Guerrero",
+      "territory": "Acapulco de Juárez",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487904a",
+    "subregion": {
+      "id": "58581a836630e24c4487904a",
+      "name": "South Costa Rica",
+      "forecasterEmail": "",
+      "country": "Costa Rica",
+      "state": "Provincia de Puntarenas",
+      "territory": "Golfito",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487904b",
+    "subregion": {
+      "id": "58581a836630e24c4487904b",
+      "name": "Samoa South",
+      "forecasterEmail": "",
+      "country": "Samoa",
+      "state": "Gagaifomauga",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487904c",
+    "subregion": {
+      "id": "58581a836630e24c4487904c",
+      "name": "Tonga",
+      "forecasterEmail": "",
+      "country": "Tonga",
+      "state": "Tongatapu",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487904f",
+    "subregion": {
+      "id": "58581a836630e24c4487904f",
+      "name": "Cape Verde North",
+      "forecasterEmail": "",
+      "country": "Cape Verde",
+      "state": "Sal",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879050",
+    "subregion": {
+      "id": "58581a836630e24c44879050",
+      "name": "Cape Verde South",
+      "forecasterEmail": "",
+      "country": "Cape Verde",
+      "state": "Praia",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879051",
+    "subregion": {
+      "id": "58581a836630e24c44879051",
+      "name": "Georgia",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "Georgia",
+      "territory": "Chatham County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879052",
+    "subregion": {
+      "id": "58581a836630e24c44879052",
+      "name": "Alaska",
+      "forecasterEmail": "",
+      "country": "Canada",
+      "state": "Yukon",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879053",
+    "subregion": {
+      "id": "58581a836630e24c44879053",
+      "name": "Central Chile",
+      "forecasterEmail": "",
+      "country": "Chile",
+      "state": "Región del Libertador General Bernardo O’Higgins",
+      "territory": "Provincia de Colchagua",
+      "subterritory": "Santa Cruz",
+      "subsubterritory": "Santa Cruz"
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879054",
+    "subregion": {
+      "id": "58581a836630e24c44879054",
+      "name": "North East England",
+      "forecasterEmail": "",
+      "country": "United Kingdom",
+      "state": "England",
+      "territory": "North Yorkshire",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879055",
+    "subregion": {
+      "id": "58581a836630e24c44879055",
+      "name": "Torquay",
+      "forecasterEmail": "",
+      "country": "Australia",
+      "state": "Victoria",
+      "territory": "Surf Coast",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879056",
+    "subregion": {
+      "id": "58581a836630e24c44879056",
+      "name": "Eastern Victoria",
+      "forecasterEmail": "",
+      "country": "Australia",
+      "state": "Victoria",
+      "territory": "East Gippsland",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879057",
+    "subregion": {
+      "id": "58581a836630e24c44879057",
+      "name": "Perth",
+      "forecasterEmail": "",
+      "country": "Australia",
+      "state": "Western Australia",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879058",
+    "subregion": {
+      "id": "58581a836630e24c44879058",
+      "name": "Southeast Australia",
+      "forecasterEmail": "",
+      "country": "Australia",
+      "state": "South Australia",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487905a",
+    "subregion": {
+      "id": "58581a836630e24c4487905a",
+      "name": "North Puerto Rico",
+      "forecasterEmail": "",
+      "country": "Puerto Rico",
+      "state": "Municipio de Isabela",
+      "territory": "Isabela Barrio-Pueblo",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487905b",
+    "subregion": {
+      "id": "58581a836630e24c4487905b",
+      "name": "Southeast Puerto Rico",
+      "forecasterEmail": "",
+      "country": "Puerto Rico",
+      "state": "Patillas Municipio",
+      "territory": "Bajo Barrio",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487905c",
+    "subregion": {
+      "id": "58581a836630e24c4487905c",
+      "name": "Northwest Cuba",
+      "forecasterEmail": "",
+      "country": "Cuba",
+      "state": "La Habana",
+      "territory": "Havana",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487905d",
+    "subregion": {
+      "id": "58581a836630e24c4487905d",
+      "name": "Northeast Cuba",
+      "forecasterEmail": "",
+      "country": "Cuba",
+      "state": "Provincia de Holguín",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487905e",
+    "subregion": {
+      "id": "58581a836630e24c4487905e",
+      "name": "East Jamaica",
+      "forecasterEmail": "",
+      "country": "Jamaica",
+      "state": "Kingston",
+      "territory": "Port Royal",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879060",
+    "subregion": {
+      "id": "58581a836630e24c44879060",
+      "name": "North Dominican Republic",
+      "forecasterEmail": "",
+      "country": "Dominican Republic",
+      "state": "Puerto Plata",
+      "territory": "Sosúa",
+      "subterritory": "Cabarete (D. M.).",
+      "subsubterritory": "Cabarete (D. M.)."
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879061",
+    "subregion": {
+      "id": "58581a836630e24c44879061",
+      "name": "South Dominican Republic",
+      "forecasterEmail": "",
+      "country": "Dominican Republic",
+      "state": "Provincia de Barahona",
+      "territory": "Paraíso",
+      "subterritory": "Paraíso",
+      "subsubterritory": "Paraíso"
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879062",
+    "subregion": {
+      "id": "58581a836630e24c44879062",
+      "name": "Tortola",
+      "forecasterEmail": "",
+      "country": "British Virgin Islands",
+      "state": "",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879064",
+    "subregion": {
+      "id": "58581a836630e24c44879064",
+      "name": "North Trinidad and Tobago",
+      "forecasterEmail": "",
+      "country": "Trinidad and Tobago",
+      "state": "Tobago",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879065",
+    "subregion": {
+      "id": "58581a836630e24c44879065",
+      "name": "Wales",
+      "forecasterEmail": "",
+      "country": "United Kingdom",
+      "state": "Wales",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879066",
+    "subregion": {
+      "id": "58581a836630e24c44879066",
+      "name": "North Scotland",
+      "forecasterEmail": "",
+      "country": "United Kingdom",
+      "state": "",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879067",
+    "subregion": {
+      "id": "58581a836630e24c44879067",
+      "name": "Madeira",
+      "forecasterEmail": "",
+      "country": "Portugal",
+      "state": "Madeira",
+      "territory": "Calheta Municipality",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879068",
+    "subregion": {
+      "id": "58581a836630e24c44879068",
+      "name": "Gran Canaria",
+      "forecasterEmail": "",
+      "country": "Spain",
+      "state": "Canary Islands",
+      "territory": "Las Palmas",
+      "subterritory": "Playa del Ingles",
+      "subsubterritory": "Playa del Ingles"
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879069",
+    "subregion": {
+      "id": "58581a836630e24c44879069",
+      "name": "Fuerteventura Canaries",
+      "forecasterEmail": "",
+      "country": "Spain",
+      "state": "Canary Islands",
+      "territory": "Las Palmas",
+      "subterritory": "Pájara",
+      "subsubterritory": "Pájara"
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487906a",
+    "subregion": {
+      "id": "58581a836630e24c4487906a",
+      "name": "North Morocco",
+      "forecasterEmail": "",
+      "country": "Morocco",
+      "state": "Souss-Massa",
+      "territory": "Agadir-Ida-ou-Tnan",
+      "subterritory": "Taghazout",
+      "subsubterritory": "Taghazout"
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487906b",
+    "subregion": {
+      "id": "58581a836630e24c4487906b",
+      "name": "Reunion Island",
+      "forecasterEmail": "",
+      "country": "France",
+      "state": "",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487906c",
+    "subregion": {
+      "id": "58581a836630e24c4487906c",
+      "name": "Mauritius",
+      "forecasterEmail": "",
+      "country": "Mauritius",
+      "state": "Black River District",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487906d",
+    "subregion": {
+      "id": "58581a836630e24c4487906d",
+      "name": "East India",
+      "forecasterEmail": "",
+      "country": "India",
+      "state": "Andhra Pradesh",
+      "territory": "Vishākhapatnam",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487906f",
+    "subregion": {
+      "id": "58581a836630e24c4487906f",
+      "name": "West Java",
+      "forecasterEmail": "",
+      "country": "Indonesia",
+      "state": "West Java",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879070",
+    "subregion": {
+      "id": "58581a836630e24c44879070",
+      "name": "Panaitan Island",
+      "forecasterEmail": "",
+      "country": "Indonesia",
+      "state": "Java",
+      "territory": "Banten",
+      "subterritory": "Princess Island",
+      "subsubterritory": "Princess Island"
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879071",
+    "subregion": {
+      "id": "58581a836630e24c44879071",
+      "name": "Lombok",
+      "forecasterEmail": "",
+      "country": "Indonesia",
+      "state": "West Nusa Tenggara",
+      "territory": "Lombok Island",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879072",
+    "subregion": {
+      "id": "58581a836630e24c44879072",
+      "name": "Sumbawa",
+      "forecasterEmail": "",
+      "country": "Indonesia",
+      "state": "West Nusa Tenggara",
+      "territory": "Pulau Sumbawa",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879073",
+    "subregion": {
+      "id": "58581a836630e24c44879073",
+      "name": "Timor",
+      "forecasterEmail": "",
+      "country": "Indonesia",
+      "state": "East Nusa Tenggara",
+      "territory": "Timor",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879074",
+    "subregion": {
+      "id": "58581a836630e24c44879074",
+      "name": "Northern Philippines",
+      "forecasterEmail": "",
+      "country": "Philippines",
+      "state": "Bicol",
+      "territory": "Province of Catanduanes",
+      "subterritory": "Baras",
+      "subsubterritory": "Baras"
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879075",
+    "subregion": {
+      "id": "58581a836630e24c44879075",
+      "name": "New Caledonia",
+      "forecasterEmail": "",
+      "country": "New Caledonia",
+      "state": "South Province",
+      "territory": "Nouméa",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879076",
+    "subregion": {
+      "id": "58581a836630e24c44879076",
+      "name": "Kavieng",
+      "forecasterEmail": "",
+      "country": "Papua New Guinea",
+      "state": "New Ireland",
+      "territory": "Kavieng",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879077",
+    "subregion": {
+      "id": "58581a836630e24c44879077",
+      "name": "Pohnpei",
+      "forecasterEmail": "",
+      "country": "Micronesia",
+      "state": "State of Pohnpei",
+      "territory": "Kolonia Municipality",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879078",
+    "subregion": {
+      "id": "58581a836630e24c44879078",
+      "name": "Chiba",
+      "forecasterEmail": "",
+      "country": "Japan",
+      "state": "Chiba",
+      "territory": "Isumi Shi",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879079",
+    "subregion": {
+      "id": "58581a836630e24c44879079",
+      "name": "Nova Scotia",
+      "forecasterEmail": "",
+      "country": "Canada",
+      "state": "Nova Scotia",
+      "territory": "Halifax",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487907a",
+    "subregion": {
+      "id": "58581a836630e24c4487907a",
+      "name": "Vancouver Island",
+      "forecasterEmail": "",
+      "country": "Canada",
+      "state": "British Columbia",
+      "territory": "Regional District of Alberni-Clayoquot",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487907b",
+    "subregion": {
+      "id": "58581a836630e24c4487907b",
+      "name": "Southwestern Sri Lanka",
+      "forecasterEmail": "",
+      "country": "Sri Lanka",
+      "state": "",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487907c",
+    "subregion": {
+      "id": "58581a836630e24c4487907c",
+      "name": "Southeastern Sri Lanka",
+      "forecasterEmail": "",
+      "country": "Sri Lanka",
+      "state": "",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487907e",
+    "subregion": {
+      "id": "58581a836630e24c4487907e",
+      "name": "Panama Caribbean",
+      "forecasterEmail": "",
+      "country": "Panama",
+      "state": "Provincia de Bocas del Toro",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487907f",
+    "subregion": {
+      "id": "58581a836630e24c4487907f",
+      "name": "North Maui",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "Hawaii",
+      "territory": "Maui",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879080",
+    "subregion": {
+      "id": "58581a836630e24c44879080",
+      "name": "Kona Hawaii",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "Hawaii",
+      "territory": "Island of Hawai‘i",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879081",
+    "subregion": {
+      "id": "58581a836630e24c44879081",
+      "name": "Hilo Hawaii",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "Hawaii",
+      "territory": "Island of Hawai‘i",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879082",
+    "subregion": {
+      "id": "58581a836630e24c44879082",
+      "name": "Bahia",
+      "forecasterEmail": "",
+      "country": "Brazil",
+      "state": "Bahia",
+      "territory": "Lauro de Freitas",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879083",
+    "subregion": {
+      "id": "58581a836630e24c44879083",
+      "name": "Lanai",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "Hawaii",
+      "territory": "Lāna‘i",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879084",
+    "subregion": {
+      "id": "58581a836630e24c44879084",
+      "name": "Molokai",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "Hawaii",
+      "territory": "Moloka‘i",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879085",
+    "subregion": {
+      "id": "58581a836630e24c44879085",
+      "name": "Huatulco Area",
+      "forecasterEmail": "",
+      "country": "Mexico",
+      "state": "Oaxaca",
+      "territory": "Santo Domingo Tehuantepec",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879086",
+    "subregion": {
+      "id": "58581a836630e24c44879086",
+      "name": "North Peru",
+      "forecasterEmail": "",
+      "country": "Peru",
+      "state": "Piura",
+      "territory": "Provincia de Talara",
+      "subterritory": "La Brea",
+      "subsubterritory": "La Brea"
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879087",
+    "subregion": {
+      "id": "58581a836630e24c44879087",
+      "name": "West Scotland",
+      "forecasterEmail": "",
+      "country": "United Kingdom",
+      "state": "",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879088",
+    "subregion": {
+      "id": "58581a836630e24c44879088",
+      "name": "Yucatan Area",
+      "forecasterEmail": "",
+      "country": "Mexico",
+      "state": "Quintana Roo",
+      "territory": "Cozumel",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487908a",
+    "subregion": {
+      "id": "58581a836630e24c4487908a",
+      "name": "Rhode Island",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "Rhode Island",
+      "territory": "Washington County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487908b",
+    "subregion": {
+      "id": "58581a836630e24c4487908b",
+      "name": "Aruba",
+      "forecasterEmail": "",
+      "country": "Aruba",
+      "state": "",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487908c",
+    "subregion": {
+      "id": "58581a836630e24c4487908c",
+      "name": "Guam",
+      "forecasterEmail": "",
+      "country": "Guam",
+      "state": "San Lazarus archipelago",
+      "territory": "Hagatna",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487908e",
+    "subregion": {
+      "id": "58581a836630e24c4487908e",
+      "name": "Zona Norte Portugal",
+      "forecasterEmail": "",
+      "country": "Portugal",
+      "state": "Porto",
+      "territory": "Matosinhos Municipality",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879093",
+    "subregion": {
+      "id": "58581a836630e24c44879093",
+      "name": "Lisboa Portugal",
+      "forecasterEmail": "",
+      "country": "Portugal",
+      "state": "Setúbal",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879094",
+    "subregion": {
+      "id": "58581a836630e24c44879094",
+      "name": "Algarve Portugal",
+      "forecasterEmail": "",
+      "country": "Portugal",
+      "state": "Faro",
+      "territory": "Vila do Bispo Municipality",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879095",
+    "subregion": {
+      "id": "58581a836630e24c44879095",
+      "name": "Zona Centro Portugal",
+      "forecasterEmail": "",
+      "country": "Portugal",
+      "state": "Leiria",
+      "territory": "Nazaré Municipality",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879096",
+    "subregion": {
+      "id": "58581a836630e24c44879096",
+      "name": "Northwest Spain",
+      "forecasterEmail": "",
+      "country": "Spain",
+      "state": "Galicia",
+      "territory": "A Coruña",
+      "subterritory": "Valdoviño",
+      "subsubterritory": "Valdoviño"
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879097",
+    "subregion": {
+      "id": "58581a836630e24c44879097",
+      "name": "West India",
+      "forecasterEmail": "",
+      "country": "India",
+      "state": "Karnataka",
+      "territory": "Uttar Kannada",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879098",
+    "subregion": {
+      "id": "58581a836630e24c44879098",
+      "name": "Central Coast NSW",
+      "forecasterEmail": "",
+      "country": "Australia",
+      "state": "New South Wales",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879099",
+    "subregion": {
+      "id": "58581a836630e24c44879099",
+      "name": "Para",
+      "forecasterEmail": "",
+      "country": "Brazil",
+      "state": "Pará",
+      "territory": "Augusto Corrêa",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487909a",
+    "subregion": {
+      "id": "58581a836630e24c4487909a",
+      "name": "Maranhao",
+      "forecasterEmail": "",
+      "country": "Brazil",
+      "state": "Maranhão",
+      "territory": "São Luís",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487909b",
+    "subregion": {
+      "id": "58581a836630e24c4487909b",
+      "name": "Ceara",
+      "forecasterEmail": "",
+      "country": "Brazil",
+      "state": "Ceará",
+      "territory": "Fortaleza",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487909c",
+    "subregion": {
+      "id": "58581a836630e24c4487909c",
+      "name": "Rio Grande do Norte",
+      "forecasterEmail": "",
+      "country": "Brazil",
+      "state": "Rio Grande do Norte",
+      "territory": "Arês",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487909d",
+    "subregion": {
+      "id": "58581a836630e24c4487909d",
+      "name": "Paraiba",
+      "forecasterEmail": "",
+      "country": "Brazil",
+      "state": "Paraíba",
+      "territory": "Cabedelo",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487909e",
+    "subregion": {
+      "id": "58581a836630e24c4487909e",
+      "name": "Pernambuco",
+      "forecasterEmail": "",
+      "country": "Brazil",
+      "state": "Pernambuco",
+      "territory": "Sirinhaém",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487909f",
+    "subregion": {
+      "id": "58581a836630e24c4487909f",
+      "name": "Rio de Janeiro-Litoral Sul",
+      "forecasterEmail": "",
+      "country": "Brazil",
+      "state": "Rio de Janeiro",
+      "territory": "Rio de Janeiro",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790a0",
+    "subregion": {
+      "id": "58581a836630e24c448790a0",
+      "name": "Sao Paulo",
+      "forecasterEmail": "",
+      "country": "Brazil",
+      "state": "São Paulo",
+      "territory": "Praia Grande",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790a1",
+    "subregion": {
+      "id": "58581a836630e24c448790a1",
+      "name": "Parana",
+      "forecasterEmail": "",
+      "country": "Brazil",
+      "state": "Paraná",
+      "territory": "Guaratuba",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790a2",
+    "subregion": {
+      "id": "58581a836630e24c448790a2",
+      "name": "Santa Catarina",
+      "forecasterEmail": "",
+      "country": "Brazil",
+      "state": "Santa Catarina",
+      "territory": "Florianópolis",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790a3",
+    "subregion": {
+      "id": "58581a836630e24c448790a3",
+      "name": "Rio Grande do Sul",
+      "forecasterEmail": "",
+      "country": "Brazil",
+      "state": "Rio Grande do Sul",
+      "territory": "Tramandaí",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790a4",
+    "subregion": {
+      "id": "58581a836630e24c448790a4",
+      "name": "Port Elizabeth",
+      "forecasterEmail": "",
+      "country": "South Africa",
+      "state": "Eastern Cape",
+      "territory": "Nelson Mandela Bay",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790a6",
+    "subregion": {
+      "id": "58581a836630e24c448790a6",
+      "name": "Fernando de Noronha",
+      "forecasterEmail": "",
+      "country": "Brazil",
+      "state": "Pernambuco",
+      "territory": "Fernando de Noronha",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790a7",
+    "subregion": {
+      "id": "58581a836630e24c448790a7",
+      "name": "Northwest France",
+      "forecasterEmail": "",
+      "country": "France",
+      "state": "Nouvelle-Aquitaine",
+      "territory": "Gironde",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790a8",
+    "subregion": {
+      "id": "58581a836630e24c448790a8",
+      "name": "North France",
+      "forecasterEmail": "",
+      "country": "France",
+      "state": "Brittany",
+      "territory": "Finistère",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790ad",
+    "subregion": {
+      "id": "58581a836630e24c448790ad",
+      "name": "East Scotland",
+      "forecasterEmail": "",
+      "country": "United Kingdom",
+      "state": "",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790b0",
+    "subregion": {
+      "id": "58581a836630e24c448790b0",
+      "name": "Southern Israel",
+      "forecasterEmail": "",
+      "country": "Israel",
+      "state": "Tel Aviv",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790b1",
+    "subregion": {
+      "id": "58581a836630e24c448790b1",
+      "name": "Northern Israel",
+      "forecasterEmail": "",
+      "country": "Israel",
+      "state": "Tel Aviv",
+      "territory": "Herzliya",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790b2",
+    "subregion": {
+      "id": "58581a836630e24c448790b2",
+      "name": "Shanghai",
+      "forecasterEmail": "",
+      "country": "China",
+      "state": "Zhejiang",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790b6",
+    "subregion": {
+      "id": "58581a836630e24c448790b6",
+      "name": "Guandong",
+      "forecasterEmail": "",
+      "country": "China",
+      "state": "Guangdong",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790b8",
+    "subregion": {
+      "id": "58581a836630e24c448790b8",
+      "name": "Wenchang",
+      "forecasterEmail": "",
+      "country": "China",
+      "state": "Hainan",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790b9",
+    "subregion": {
+      "id": "58581a836630e24c448790b9",
+      "name": "Wanning",
+      "forecasterEmail": "",
+      "country": "China",
+      "state": "Hainan",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790ba",
+    "subregion": {
+      "id": "58581a836630e24c448790ba",
+      "name": "Sanya",
+      "forecasterEmail": "",
+      "country": "China",
+      "state": "Hainan",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790bb",
+    "subregion": {
+      "id": "58581a836630e24c448790bb",
+      "name": "Taipei",
+      "forecasterEmail": "",
+      "country": "Taiwan",
+      "state": "Taiwan",
+      "territory": "Keelung",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790bc",
+    "subregion": {
+      "id": "58581a836630e24c448790bc",
+      "name": "Miaoli",
+      "forecasterEmail": "",
+      "country": "Taiwan",
+      "state": "Taiwan",
+      "territory": "Miaoli",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790bd",
+    "subregion": {
+      "id": "58581a836630e24c448790bd",
+      "name": "Taitung",
+      "forecasterEmail": "",
+      "country": "Taiwan",
+      "state": "Taiwan",
+      "territory": "Taitung",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790be",
+    "subregion": {
+      "id": "58581a836630e24c448790be",
+      "name": "Kaohsiung",
+      "forecasterEmail": "",
+      "country": "Taiwan",
+      "state": "Kaohsiung",
+      "territory": "Kaohsiung",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790bf",
+    "subregion": {
+      "id": "58581a836630e24c448790bf",
+      "name": "Taoyuan",
+      "forecasterEmail": "",
+      "country": "Taiwan",
+      "state": "Taiwan",
+      "territory": "Hsinchu",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790c0",
+    "subregion": {
+      "id": "58581a836630e24c448790c0",
+      "name": "Qingdao",
+      "forecasterEmail": "",
+      "country": "China",
+      "state": "Hainan",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790c2",
+    "subregion": {
+      "id": "58581a836630e24c448790c2",
+      "name": "Turks and Caicos",
+      "forecasterEmail": "",
+      "country": "Bahamas",
+      "state": "Mayaguana District",
+      "territory": "Abraham’s Bay",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790c3",
+    "subregion": {
+      "id": "58581a836630e24c448790c3",
+      "name": "St Thomas",
+      "forecasterEmail": "",
+      "country": "U.S. Virgin Islands",
+      "state": "Saint Thomas Island",
+      "territory": "Charlotte Amalie",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790c4",
+    "subregion": {
+      "id": "58581a836630e24c448790c4",
+      "name": "St John",
+      "forecasterEmail": "",
+      "country": "U.S. Virgin Islands",
+      "state": "",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790c5",
+    "subregion": {
+      "id": "58581a836630e24c448790c5",
+      "name": "St Croix",
+      "forecasterEmail": "",
+      "country": "U.S. Virgin Islands",
+      "state": "",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790c7",
+    "subregion": {
+      "id": "58581a836630e24c448790c7",
+      "name": "Guadeloupe",
+      "forecasterEmail": "",
+      "country": "Guadeloupe",
+      "state": "Guadeloupe",
+      "territory": "Guadeloupe",
+      "subterritory": "Arrondissement de Pointe-à-Pitre",
+      "subsubterritory": "Arrondissement de Pointe-à-Pitre"
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790c8",
+    "subregion": {
+      "id": "58581a836630e24c448790c8",
+      "name": "Dominica",
+      "forecasterEmail": "",
+      "country": "Dominica",
+      "state": "Saint Andrew",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790c9",
+    "subregion": {
+      "id": "58581a836630e24c448790c9",
+      "name": "Coral Coast",
+      "forecasterEmail": "",
+      "country": "Australia",
+      "state": "Western Australia",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790ca",
+    "subregion": {
+      "id": "58581a836630e24c448790ca",
+      "name": "St. Lucia",
+      "forecasterEmail": "",
+      "country": "St Lucia",
+      "state": "Saint Lucia",
+      "territory": "Gros-Islet",
+      "subterritory": "Rodney Heights",
+      "subsubterritory": "Rodney Heights"
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790cb",
+    "subregion": {
+      "id": "58581a836630e24c448790cb",
+      "name": "Curacao",
+      "forecasterEmail": "",
+      "country": "Curaçao",
+      "state": "Curaçao",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790cc",
+    "subregion": {
+      "id": "58581a836630e24c448790cc",
+      "name": "Martinique",
+      "forecasterEmail": "",
+      "country": "Martinique",
+      "state": "Martinique",
+      "territory": "Martinique",
+      "subterritory": "Arrondissement de La Trinité",
+      "subsubterritory": "Arrondissement de La Trinité"
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790cd",
+    "subregion": {
+      "id": "58581a836630e24c448790cd",
+      "name": "Spain (Alboran)",
+      "forecasterEmail": "",
+      "country": "Spain",
+      "state": "Andalusia",
+      "territory": "Almeria",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790ce",
+    "subregion": {
+      "id": "58581a836630e24c448790ce",
+      "name": "Spain (Balearic)",
+      "forecasterEmail": "",
+      "country": "Spain",
+      "state": "Catalonia",
+      "territory": "Barcelona",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790cf",
+    "subregion": {
+      "id": "58581a836630e24c448790cf",
+      "name": "Spain (Mediterranean)",
+      "forecasterEmail": "",
+      "country": "Spain",
+      "state": "Valencia",
+      "territory": "Alicante",
+      "subterritory": "Alicante",
+      "subsubterritory": "Alicante"
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790d0",
+    "subregion": {
+      "id": "58581a836630e24c448790d0",
+      "name": "Southwest Spain",
+      "forecasterEmail": "",
+      "country": "Spain",
+      "state": "Andalusia",
+      "territory": "Cadiz",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790d1",
+    "subregion": {
+      "id": "58581a836630e24c448790d1",
+      "name": "Michigan U.P. (Lake Superior)",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "Michigan",
+      "territory": "Alger County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790d2",
+    "subregion": {
+      "id": "58581a836630e24c448790d2",
+      "name": "West MI (Lake Michigan)",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "Michigan",
+      "territory": "Van Buren County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790d3",
+    "subregion": {
+      "id": "58581a836630e24c448790d3",
+      "name": "East MI (Lake Huron)",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "Michigan",
+      "territory": "Sanilac County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790d4",
+    "subregion": {
+      "id": "58581a836630e24c448790d4",
+      "name": "South ON (Lake Erie)",
+      "forecasterEmail": "",
+      "country": "Canada",
+      "state": "Ontario",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790d5",
+    "subregion": {
+      "id": "58581a836630e24c448790d5",
+      "name": "Southeast ON (Lake Ontario)",
+      "forecasterEmail": "",
+      "country": "Canada",
+      "state": "Ontario",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790d6",
+    "subregion": {
+      "id": "58581a836630e24c448790d6",
+      "name": "Pingtung",
+      "forecasterEmail": "",
+      "country": "Taiwan",
+      "state": "Taiwan",
+      "territory": "Pingtung",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790d7",
+    "subregion": {
+      "id": "58581a836630e24c448790d7",
+      "name": "Yilan",
+      "forecasterEmail": "",
+      "country": "Taiwan",
+      "state": "Taiwan",
+      "territory": "Yilan",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790d8",
+    "subregion": {
+      "id": "58581a836630e24c448790d8",
+      "name": "Northern Denmark",
+      "forecasterEmail": "",
+      "country": "Denmark",
+      "state": "Central Jutland",
+      "territory": "Lemvig Kommune",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790d9",
+    "subregion": {
+      "id": "58581a836630e24c448790d9",
+      "name": "Southern Denmark",
+      "forecasterEmail": "",
+      "country": "Denmark",
+      "state": "South Denmark",
+      "territory": "Varde Kommune",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790da",
+    "subregion": {
+      "id": "58581a836630e24c448790da",
+      "name": "Zealand",
+      "forecasterEmail": "",
+      "country": "Denmark",
+      "state": "Capital Region",
+      "territory": "Gribskov Kommune",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790db",
+    "subregion": {
+      "id": "58581a836630e24c448790db",
+      "name": "Western Germany",
+      "forecasterEmail": "",
+      "country": "Germany",
+      "state": "Schleswig-Holstein",
+      "territory": "Kreis Nordfriesland",
+      "subterritory": "Sylt",
+      "subsubterritory": "Sylt"
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790dc",
+    "subregion": {
+      "id": "58581a836630e24c448790dc",
+      "name": "Eastern Germany",
+      "forecasterEmail": "",
+      "country": "Germany",
+      "state": "Schleswig-Holstein",
+      "territory": "Kreis Ostholstein",
+      "subterritory": "Dahme",
+      "subsubterritory": "Dahme"
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790df",
+    "subregion": {
+      "id": "58581a836630e24c448790df",
+      "name": "Solomon Islands South",
+      "forecasterEmail": "",
+      "country": "Solomon Islands",
+      "state": "Isabel Province",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790e0",
+    "subregion": {
+      "id": "58581a836630e24c448790e0",
+      "name": "Lanzarote Canaries",
+      "forecasterEmail": "",
+      "country": "Spain",
+      "state": "Canary Islands",
+      "territory": "Las Palmas",
+      "subterritory": "Teguise",
+      "subsubterritory": "Teguise"
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790e1",
+    "subregion": {
+      "id": "58581a836630e24c448790e1",
+      "name": "Tenerife Canaries",
+      "forecasterEmail": "",
+      "country": "Spain",
+      "state": "Canary Islands",
+      "territory": "Santa Cruz de Tenerife",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790e2",
+    "subregion": {
+      "id": "58581a836630e24c448790e2",
+      "name": "Kangaroo Island",
+      "forecasterEmail": "",
+      "country": "Australia",
+      "state": "South Australia",
+      "territory": "Kangaroo Island",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790e3",
+    "subregion": {
+      "id": "58581a836630e24c448790e3",
+      "name": "Midcoast",
+      "forecasterEmail": "",
+      "country": "Australia",
+      "state": "South Australia",
+      "territory": "Onkaparinga",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790e4",
+    "subregion": {
+      "id": "58581a836630e24c448790e4",
+      "name": "South Coast",
+      "forecasterEmail": "",
+      "country": "Australia",
+      "state": "South Australia",
+      "territory": "Victor Harbor",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790e5",
+    "subregion": {
+      "id": "58581a836630e24c448790e5",
+      "name": "Eyre Peninsula",
+      "forecasterEmail": "",
+      "country": "Australia",
+      "state": "South Australia",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790e6",
+    "subregion": {
+      "id": "58581a836630e24c448790e6",
+      "name": "Outer Waters",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "California",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790e7",
+    "subregion": {
+      "id": "58581a836630e24c448790e7",
+      "name": "Rio de Janeiro-Litoral Leste",
+      "forecasterEmail": "",
+      "country": "Brazil",
+      "state": "Rio de Janeiro",
+      "territory": "Búzios",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790e8",
+    "subregion": {
+      "id": "58581a836630e24c448790e8",
+      "name": "Northern Ecuador",
+      "forecasterEmail": "",
+      "country": "Ecuador",
+      "state": "Provincia de Esmeraldas",
+      "territory": "Cantón Muisne",
+      "subterritory": "Muisne",
+      "subsubterritory": "Muisne"
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790e9",
+    "subregion": {
+      "id": "58581a836630e24c448790e9",
+      "name": "Southern Ecuador",
+      "forecasterEmail": "",
+      "country": "Ecuador",
+      "state": "Provincia de Santa Elena",
+      "territory": "Cantón Salinas",
+      "subterritory": "Salinas",
+      "subsubterritory": "Salinas"
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790ea",
+    "subregion": {
+      "id": "58581a836630e24c448790ea",
+      "name": "Hokkaido",
+      "forecasterEmail": "",
+      "country": "Japan",
+      "state": "Hokkaido",
+      "territory": "Otaru-shi",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790eb",
+    "subregion": {
+      "id": "58581a836630e24c448790eb",
+      "name": "Aomori",
+      "forecasterEmail": "",
+      "country": "Japan",
+      "state": "Aomori",
+      "territory": "Hachinohe Shi",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790ec",
+    "subregion": {
+      "id": "58581a836630e24c448790ec",
+      "name": "Iwate",
+      "forecasterEmail": "",
+      "country": "Japan",
+      "state": "Iwate",
+      "territory": "Ōfunato-shi",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790ed",
+    "subregion": {
+      "id": "58581a836630e24c448790ed",
+      "name": "Akita",
+      "forecasterEmail": "",
+      "country": "Japan",
+      "state": "Yamagata",
+      "territory": "Akumi-gun",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790ee",
+    "subregion": {
+      "id": "58581a836630e24c448790ee",
+      "name": "Yamagata",
+      "forecasterEmail": "",
+      "country": "Japan",
+      "state": "Yamagata",
+      "territory": "Tsuruoka Shi",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790ef",
+    "subregion": {
+      "id": "58581a836630e24c448790ef",
+      "name": "Fukushima",
+      "forecasterEmail": "",
+      "country": "Japan",
+      "state": "Fukushima",
+      "territory": "Futaba-gun",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790f0",
+    "subregion": {
+      "id": "58581a836630e24c448790f0",
+      "name": "Ibaraki",
+      "forecasterEmail": "",
+      "country": "Japan",
+      "state": "Ibaraki",
+      "territory": "Kashima-shi",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790f1",
+    "subregion": {
+      "id": "58581a836630e24c448790f1",
+      "name": "Shonan",
+      "forecasterEmail": "",
+      "country": "Japan",
+      "state": "Kanagawa",
+      "territory": "Chigasaki",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790f2",
+    "subregion": {
+      "id": "58581a836630e24c448790f2",
+      "name": "Shizunami",
+      "forecasterEmail": "",
+      "country": "Japan",
+      "state": "Shizuoka",
+      "territory": "Makinohara",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790f3",
+    "subregion": {
+      "id": "58581a836630e24c448790f3",
+      "name": "Omaezaki",
+      "forecasterEmail": "",
+      "country": "Japan",
+      "state": "Shizuoka",
+      "territory": "Omaezaki-shi",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790f4",
+    "subregion": {
+      "id": "58581a836630e24c448790f4",
+      "name": "Hamamatsu Maihama",
+      "forecasterEmail": "",
+      "country": "Japan",
+      "state": "Shizuoka",
+      "territory": "Kosai-shi",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790f5",
+    "subregion": {
+      "id": "58581a836630e24c448790f5",
+      "name": "Irako",
+      "forecasterEmail": "",
+      "country": "Japan",
+      "state": "Aichi",
+      "territory": "Tahara-shi",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790f6",
+    "subregion": {
+      "id": "58581a836630e24c448790f6",
+      "name": "Mie-Ise",
+      "forecasterEmail": "",
+      "country": "Japan",
+      "state": "Mie",
+      "territory": "Shima",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790f7",
+    "subregion": {
+      "id": "58581a836630e24c448790f7",
+      "name": "Isonoura",
+      "forecasterEmail": "",
+      "country": "Japan",
+      "state": "Wakayama",
+      "territory": "Wakayama Shi",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790f8",
+    "subregion": {
+      "id": "58581a836630e24c448790f8",
+      "name": "Oshima",
+      "forecasterEmail": "",
+      "country": "Japan",
+      "state": "Shizuoka",
+      "territory": "Itō Shi",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790f9",
+    "subregion": {
+      "id": "58581a836630e24c448790f9",
+      "name": "Niijima",
+      "forecasterEmail": "",
+      "country": "Japan",
+      "state": "Shizuoka",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790fa",
+    "subregion": {
+      "id": "58581a836630e24c448790fa",
+      "name": "Kouzushima",
+      "forecasterEmail": "",
+      "country": "Japan",
+      "state": "Shizuoka",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790fb",
+    "subregion": {
+      "id": "58581a836630e24c448790fb",
+      "name": "Chichijima",
+      "forecasterEmail": "",
+      "country": "Japan",
+      "state": "Shizuoka",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790fc",
+    "subregion": {
+      "id": "58581a836630e24c448790fc",
+      "name": "Niigata",
+      "forecasterEmail": "",
+      "country": "Japan",
+      "state": "Niigata",
+      "territory": "Jōetsu Shi",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790fd",
+    "subregion": {
+      "id": "58581a836630e24c448790fd",
+      "name": "Toyama",
+      "forecasterEmail": "",
+      "country": "Japan",
+      "state": "Toyama",
+      "territory": "Himi Shi",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790fe",
+    "subregion": {
+      "id": "58581a836630e24c448790fe",
+      "name": "Ishikawa",
+      "forecasterEmail": "",
+      "country": "Japan",
+      "state": "Ishikawa",
+      "territory": "Kanazawa City",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c448790ff",
+    "subregion": {
+      "id": "58581a836630e24c448790ff",
+      "name": "Fukui",
+      "forecasterEmail": "",
+      "country": "Japan",
+      "state": "Fukui",
+      "territory": "Obama-shi",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879100",
+    "subregion": {
+      "id": "58581a836630e24c44879100",
+      "name": "Kyoto",
+      "forecasterEmail": "",
+      "country": "Japan",
+      "state": "Kyoto",
+      "territory": "Miyazu-shi",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879101",
+    "subregion": {
+      "id": "58581a836630e24c44879101",
+      "name": "Tottori",
+      "forecasterEmail": "",
+      "country": "Japan",
+      "state": "Tottori",
+      "territory": "Kurayoshi-shi",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879102",
+    "subregion": {
+      "id": "58581a836630e24c44879102",
+      "name": "Shimane",
+      "forecasterEmail": "",
+      "country": "Japan",
+      "state": "Shimane",
+      "territory": "Izumo Shi",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879103",
+    "subregion": {
+      "id": "58581a836630e24c44879103",
+      "name": "Yamaguchi",
+      "forecasterEmail": "",
+      "country": "Japan",
+      "state": "Yamaguchi",
+      "territory": "Hagi Shi",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879104",
+    "subregion": {
+      "id": "58581a836630e24c44879104",
+      "name": "Tokushima",
+      "forecasterEmail": "",
+      "country": "Japan",
+      "state": "Kochi",
+      "territory": "Muroto Shi",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879105",
+    "subregion": {
+      "id": "58581a836630e24c44879105",
+      "name": "Kochi",
+      "forecasterEmail": "",
+      "country": "Japan",
+      "state": "Kochi",
+      "territory": "Shimanto-shi",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879106",
+    "subregion": {
+      "id": "58581a836630e24c44879106",
+      "name": "Fukuoka",
+      "forecasterEmail": "",
+      "country": "Japan",
+      "state": "Fukuoka",
+      "territory": "Itoshima-shi",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879107",
+    "subregion": {
+      "id": "58581a836630e24c44879107",
+      "name": "Saga",
+      "forecasterEmail": "",
+      "country": "Japan",
+      "state": "Saga",
+      "territory": "Karatsu Shi",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879108",
+    "subregion": {
+      "id": "58581a836630e24c44879108",
+      "name": "Kumamoto",
+      "forecasterEmail": "",
+      "country": "Japan",
+      "state": "Kumamoto",
+      "territory": "Amakusa Shi",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879109",
+    "subregion": {
+      "id": "58581a836630e24c44879109",
+      "name": "Miyazaki",
+      "forecasterEmail": "",
+      "country": "Japan",
+      "state": "Miyazaki",
+      "territory": "Miyazaki",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487910a",
+    "subregion": {
+      "id": "58581a836630e24c4487910a",
+      "name": "Kagoshima",
+      "forecasterEmail": "",
+      "country": "Japan",
+      "state": "Kagoshima",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487910b",
+    "subregion": {
+      "id": "58581a836630e24c4487910b",
+      "name": "Tanegashima",
+      "forecasterEmail": "",
+      "country": "Japan",
+      "state": "Kagoshima",
+      "territory": "Kumage-gun",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487910c",
+    "subregion": {
+      "id": "58581a836630e24c4487910c",
+      "name": "Fujian",
+      "forecasterEmail": "",
+      "country": "Taiwan",
+      "state": "Fukien",
+      "territory": "Kinmen County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487910d",
+    "subregion": {
+      "id": "58581a836630e24c4487910d",
+      "name": "Amamioshima",
+      "forecasterEmail": "",
+      "country": "Japan",
+      "state": "Kagoshima",
+      "territory": "Ōshima-gun",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487910e",
+    "subregion": {
+      "id": "58581a836630e24c4487910e",
+      "name": "Izu",
+      "forecasterEmail": "",
+      "country": "Japan",
+      "state": "Shizuoka",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487910f",
+    "subregion": {
+      "id": "58581a836630e24c4487910f",
+      "name": "Darwin",
+      "forecasterEmail": "",
+      "country": "Australia",
+      "state": "Northern Territory",
+      "territory": "Darwin",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879111",
+    "subregion": {
+      "id": "58581a836630e24c44879111",
+      "name": "Uruguay",
+      "forecasterEmail": "",
+      "country": "Uruguay",
+      "state": "Maldonado",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879112",
+    "subregion": {
+      "id": "58581a836630e24c44879112",
+      "name": "Alentejo Portugal",
+      "forecasterEmail": "",
+      "country": "Portugal",
+      "state": "Beja",
+      "territory": "Odemira Municipality",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879113",
+    "subregion": {
+      "id": "58581a836630e24c44879113",
+      "name": "Sao Miguel North",
+      "forecasterEmail": "",
+      "country": "Portugal",
+      "state": "Azores",
+      "territory": "Ponta Delgada",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487911a",
+    "subregion": {
+      "id": "58581a836630e24c4487911a",
+      "name": "Massachusetts North-South Shore",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "Massachusetts",
+      "territory": "Plymouth County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879126",
+    "subregion": {
+      "id": "58581a836630e24c44879126",
+      "name": "Sao Miguel South",
+      "forecasterEmail": "",
+      "country": "Portugal",
+      "state": "Azores",
+      "territory": "Ponta Delgada",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879127",
+    "subregion": {
+      "id": "58581a836630e24c44879127",
+      "name": "Terceira Northeast",
+      "forecasterEmail": "",
+      "country": "Portugal",
+      "state": "Azores",
+      "territory": "Praia da Vitória Municipality",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879128",
+    "subregion": {
+      "id": "58581a836630e24c44879128",
+      "name": "Sao Jorge North",
+      "forecasterEmail": "",
+      "country": "Portugal",
+      "state": "Azores",
+      "territory": "São Roque do Pico Municipality",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879129",
+    "subregion": {
+      "id": "58581a836630e24c44879129",
+      "name": "Northern Norway",
+      "forecasterEmail": "",
+      "country": "Norway",
+      "state": "Nordland Fylke",
+      "territory": "Vestvågøy",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487912a",
+    "subregion": {
+      "id": "58581a836630e24c4487912a",
+      "name": "West Norway",
+      "forecasterEmail": "",
+      "country": "Norway",
+      "state": "Sogn og Fjordane Fylke",
+      "territory": "Selje",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487912b",
+    "subregion": {
+      "id": "58581a836630e24c4487912b",
+      "name": "Southeast Norway",
+      "forecasterEmail": "",
+      "country": "Norway",
+      "state": "Telemark",
+      "territory": "Bamble",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487912c",
+    "subregion": {
+      "id": "58581a836630e24c4487912c",
+      "name": "Belgium",
+      "forecasterEmail": "",
+      "country": "Belgium",
+      "state": "Flanders",
+      "territory": "West Flanders Province",
+      "subterritory": "Arrondissement Veurne",
+      "subsubterritory": "Arrondissement Veurne"
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487912d",
+    "subregion": {
+      "id": "58581a836630e24c4487912d",
+      "name": "Netherlands",
+      "forecasterEmail": "",
+      "country": "Netherlands",
+      "state": "South Holland",
+      "territory": "Gemeente Den Haag",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487912f",
+    "subregion": {
+      "id": "58581a836630e24c4487912f",
+      "name": "Colombia Pacific",
+      "forecasterEmail": "",
+      "country": "Colombia",
+      "state": "Departamento del Chocó",
+      "territory": "Bahía Solano",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879130",
+    "subregion": {
+      "id": "58581a836630e24c44879130",
+      "name": "Caribbean Colombia",
+      "forecasterEmail": "",
+      "country": "Colombia",
+      "state": "Departamento del Magdalena",
+      "territory": "Santa Marta",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879132",
+    "subregion": {
+      "id": "58581a836630e24c44879132",
+      "name": "Galapagos Islands",
+      "forecasterEmail": "",
+      "country": "Ecuador",
+      "state": "Provincia de Galápagos",
+      "territory": "Galapagos Islands",
+      "subterritory": "Cantón San Cristóbal",
+      "subsubterritory": "Cantón San Cristóbal"
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879133",
+    "subregion": {
+      "id": "58581a836630e24c44879133",
+      "name": "Andaman Sea",
+      "forecasterEmail": "",
+      "country": "Thailand",
+      "state": "Phuket",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879134",
+    "subregion": {
+      "id": "58581a836630e24c44879134",
+      "name": "Gulf of Thailand",
+      "forecasterEmail": "",
+      "country": "Thailand",
+      "state": "Changwat Rayong",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879136",
+    "subregion": {
+      "id": "58581a836630e24c44879136",
+      "name": "Northern Italy",
+      "forecasterEmail": "",
+      "country": "Italy",
+      "state": "Tuscany",
+      "territory": "Provincia di Lucca",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879137",
+    "subregion": {
+      "id": "58581a836630e24c44879137",
+      "name": "Central Italy",
+      "forecasterEmail": "",
+      "country": "Italy",
+      "state": "Tuscany",
+      "territory": "Provincia di Livorno",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879139",
+    "subregion": {
+      "id": "58581a836630e24c44879139",
+      "name": "Southern Italy",
+      "forecasterEmail": "",
+      "country": "Italy",
+      "state": "Latium",
+      "territory": "Provincia di Latina",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487913a",
+    "subregion": {
+      "id": "58581a836630e24c4487913a",
+      "name": "Adriatic Sea",
+      "forecasterEmail": "",
+      "country": "Italy",
+      "state": "Apulia",
+      "territory": "Provincia di Foggia",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487913b",
+    "subregion": {
+      "id": "58581a836630e24c4487913b",
+      "name": "Sicily",
+      "forecasterEmail": "",
+      "country": "Italy",
+      "state": "Sicily",
+      "territory": "Province of Trapani",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487913c",
+    "subregion": {
+      "id": "58581a836630e24c4487913c",
+      "name": "West Sardinia",
+      "forecasterEmail": "",
+      "country": "Italy",
+      "state": "Sardinia",
+      "territory": "Province of Carbonia-Iglesias",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487913d",
+    "subregion": {
+      "id": "58581a836630e24c4487913d",
+      "name": "South Sardinia",
+      "forecasterEmail": "",
+      "country": "Italy",
+      "state": "Sardinia",
+      "territory": "Provincia di Cagliari",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487913e",
+    "subregion": {
+      "id": "58581a836630e24c4487913e",
+      "name": "Alabama",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "Alabama",
+      "territory": "Baldwin County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487913f",
+    "subregion": {
+      "id": "58581a836630e24c4487913f",
+      "name": "Louisiana",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "Louisiana",
+      "territory": "Jefferson Parish",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879140",
+    "subregion": {
+      "id": "58581a836630e24c44879140",
+      "name": "New Brunswick",
+      "forecasterEmail": "",
+      "country": "Canada",
+      "state": "New Brunswick",
+      "territory": "Saint John County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879141",
+    "subregion": {
+      "id": "58581a836630e24c44879141",
+      "name": "Veracruz",
+      "forecasterEmail": "",
+      "country": "Mexico",
+      "state": "Veracruz",
+      "territory": "Alvarado",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879142",
+    "subregion": {
+      "id": "58581a836630e24c44879142",
+      "name": "North Angola",
+      "forecasterEmail": "",
+      "country": "Angola",
+      "state": "Luanda",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879143",
+    "subregion": {
+      "id": "58581a836630e24c44879143",
+      "name": "Ghana",
+      "forecasterEmail": "",
+      "country": "Ghana",
+      "state": "Central Region",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879144",
+    "subregion": {
+      "id": "58581a836630e24c44879144",
+      "name": "Namibia",
+      "forecasterEmail": "",
+      "country": "Namibia",
+      "state": "Erongo",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879145",
+    "subregion": {
+      "id": "58581a836630e24c44879145",
+      "name": "Liberia",
+      "forecasterEmail": "",
+      "country": "Liberia",
+      "state": "Grand Cape Mount County",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879148",
+    "subregion": {
+      "id": "58581a836630e24c44879148",
+      "name": "Barbados West Coast",
+      "forecasterEmail": "",
+      "country": "Barbados",
+      "state": "Saint Lucy",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879149",
+    "subregion": {
+      "id": "58581a836630e24c44879149",
+      "name": "Barbados South Coast",
+      "forecasterEmail": "",
+      "country": "Barbados",
+      "state": "Christ Church",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487914c",
+    "subregion": {
+      "id": "58581a836630e24c4487914c",
+      "name": "Broward - Miami Dade",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "Florida",
+      "territory": "Miami-Dade County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487914d",
+    "subregion": {
+      "id": "58581a836630e24c4487914d",
+      "name": "Southern India",
+      "forecasterEmail": "",
+      "country": "India",
+      "state": "Tamil Nadu",
+      "territory": "Kanniyakumari",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487914e",
+    "subregion": {
+      "id": "58581a836630e24c4487914e",
+      "name": "Southern Philippines",
+      "forecasterEmail": "",
+      "country": "Philippines",
+      "state": "Caraga",
+      "territory": "Province of Surigao del Norte",
+      "subterritory": "San Isidro",
+      "subsubterritory": "San Isidro"
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487914f",
+    "subregion": {
+      "id": "58581a836630e24c4487914f",
+      "name": "Philippines - South China Sea",
+      "forecasterEmail": "",
+      "country": "Philippines",
+      "state": "Ilocos",
+      "territory": "Province of Ilocos Norte",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879150",
+    "subregion": {
+      "id": "58581a836630e24c44879150",
+      "name": "Channel Islands-England",
+      "forecasterEmail": "",
+      "country": "United Kingdom",
+      "state": "",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879154",
+    "subregion": {
+      "id": "58581a836630e24c44879154",
+      "name": "NW Turkey",
+      "forecasterEmail": "",
+      "country": "Turkey",
+      "state": "Kırklareli",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879155",
+    "subregion": {
+      "id": "58581a836630e24c44879155",
+      "name": "Dubai",
+      "forecasterEmail": "",
+      "country": "United Arab Emirates",
+      "state": "Dubai",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879156",
+    "subregion": {
+      "id": "58581a836630e24c44879156",
+      "name": "East Bulgaria",
+      "forecasterEmail": "",
+      "country": "Bulgaria",
+      "state": "Burgas",
+      "territory": "Obshtina Tsarevo",
+      "subterritory": "Akhtopol",
+      "subsubterritory": "Akhtopol"
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879157",
+    "subregion": {
+      "id": "58581a836630e24c44879157",
+      "name": "West Venezuela",
+      "forecasterEmail": "",
+      "country": "Venezuela",
+      "state": "Vargas",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879158",
+    "subregion": {
+      "id": "58581a836630e24c44879158",
+      "name": "Isla de Margarita",
+      "forecasterEmail": "",
+      "country": "Venezuela",
+      "state": "Nueva Esparta",
+      "territory": "Municipio Antolín del Campo",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879159",
+    "subregion": {
+      "id": "58581a836630e24c44879159",
+      "name": "Sucre",
+      "forecasterEmail": "",
+      "country": "Venezuela",
+      "state": "Sucre",
+      "territory": "Municipio Arismendi",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487915a",
+    "subregion": {
+      "id": "58581a836630e24c4487915a",
+      "name": "South Onslow - New Hanover",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "North Carolina",
+      "territory": "New Hanover County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487915b",
+    "subregion": {
+      "id": "58581a836630e24c4487915b",
+      "name": "Brunswick",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "North Carolina",
+      "territory": "Brunswick County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487915c",
+    "subregion": {
+      "id": "58581a836630e24c4487915c",
+      "name": "Marseille",
+      "forecasterEmail": "",
+      "country": "France",
+      "state": "Provence-Alpes-Côte d'Azur",
+      "territory": "Bouches-du-Rhône",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487915d",
+    "subregion": {
+      "id": "58581a836630e24c4487915d",
+      "name": "Cannes",
+      "forecasterEmail": "",
+      "country": "France",
+      "state": "Provence-Alpes-Côte d'Azur",
+      "territory": "Alpes-Maritimes",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487915f",
+    "subregion": {
+      "id": "58581a836630e24c4487915f",
+      "name": "Southern Madagascar",
+      "forecasterEmail": "",
+      "country": "Madagascar",
+      "state": "Androy Region",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879160",
+    "subregion": {
+      "id": "58581a836630e24c44879160",
+      "name": "East Peninsula",
+      "forecasterEmail": "",
+      "country": "Malaysia",
+      "state": "Terengganu",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879161",
+    "subregion": {
+      "id": "58581a836630e24c44879161",
+      "name": "Northern South Korea",
+      "forecasterEmail": "",
+      "country": "South Korea",
+      "state": "Gangwon-do",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879162",
+    "subregion": {
+      "id": "58581a836630e24c44879162",
+      "name": "Greece (Ionian Sea)",
+      "forecasterEmail": "",
+      "country": "Greece",
+      "state": "Peloponnese",
+      "territory": "Messenia",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879163",
+    "subregion": {
+      "id": "58581a836630e24c44879163",
+      "name": "Greece (Aegean sea)",
+      "forecasterEmail": "",
+      "country": "Greece",
+      "state": "Thessaly",
+      "territory": "Magnesia",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879164",
+    "subregion": {
+      "id": "58581a836630e24c44879164",
+      "name": "Greece (Southern Islands)",
+      "forecasterEmail": "",
+      "country": "Greece",
+      "state": "South Aegean",
+      "territory": "Nomós Kykládon",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879165",
+    "subregion": {
+      "id": "58581a836630e24c44879165",
+      "name": "Busan",
+      "forecasterEmail": "",
+      "country": "South Korea",
+      "state": "Busan",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879167",
+    "subregion": {
+      "id": "58581a836630e24c44879167",
+      "name": "West Finland",
+      "forecasterEmail": "",
+      "country": "Finland",
+      "state": "Satakunta",
+      "territory": "Pori",
+      "subterritory": "Pori",
+      "subsubterritory": "Pori"
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879168",
+    "subregion": {
+      "id": "58581a836630e24c44879168",
+      "name": "Southern Finland",
+      "forecasterEmail": "",
+      "country": "Finland",
+      "state": "Uusimaa",
+      "territory": "Helsinki",
+      "subterritory": "Helsinki",
+      "subsubterritory": "Helsinki"
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879169",
+    "subregion": {
+      "id": "58581a836630e24c44879169",
+      "name": "Sweden (Baltic Sea)",
+      "forecasterEmail": "",
+      "country": "Sweden",
+      "state": "Skåne",
+      "territory": "Simrishamn Municipality",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487916a",
+    "subregion": {
+      "id": "58581a836630e24c4487916a",
+      "name": "Sweden (Gulf of Bothnia)",
+      "forecasterEmail": "",
+      "country": "Sweden",
+      "state": "Västernorrland",
+      "territory": "Härnösands Kommun",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487916b",
+    "subregion": {
+      "id": "58581a836630e24c4487916b",
+      "name": "Latvia (Baltic Sea)",
+      "forecasterEmail": "",
+      "country": "Latvia",
+      "state": "Liepāja",
+      "territory": "Liepāja",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487916c",
+    "subregion": {
+      "id": "58581a836630e24c4487916c",
+      "name": "South Mozambique",
+      "forecasterEmail": "",
+      "country": "Mozambique",
+      "state": "Inhambane Province",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487916d",
+    "subregion": {
+      "id": "58581a836630e24c4487916d",
+      "name": "Lebanon",
+      "forecasterEmail": "",
+      "country": "Lebanon",
+      "state": "Mohafazat Mont-Liban",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487916e",
+    "subregion": {
+      "id": "58581a836630e24c4487916e",
+      "name": "Sao Tome",
+      "forecasterEmail": "",
+      "country": "São Tomé and Príncipe",
+      "state": "São Tomé Island",
+      "territory": "Ilha de São Tomé",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487916f",
+    "subregion": {
+      "id": "58581a836630e24c4487916f",
+      "name": "Hatteras Island",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "North Carolina",
+      "territory": "Dare County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879170",
+    "subregion": {
+      "id": "58581a836630e24c44879170",
+      "name": "Senegal",
+      "forecasterEmail": "",
+      "country": "Senegal",
+      "state": "Dakar",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879171",
+    "subregion": {
+      "id": "58581a836630e24c44879171",
+      "name": "North Coast",
+      "forecasterEmail": "",
+      "country": "Nigeria",
+      "state": "Lagos",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879172",
+    "subregion": {
+      "id": "58581a836630e24c44879172",
+      "name": "Grenada",
+      "forecasterEmail": "",
+      "country": "Grenada",
+      "state": "Saint George",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879173",
+    "subregion": {
+      "id": "58581a836630e24c44879173",
+      "name": "Northern Poland",
+      "forecasterEmail": "",
+      "country": "Poland",
+      "state": "Pomerania",
+      "territory": "Powiat pucki",
+      "subterritory": "Władysławowo",
+      "subsubterritory": "Władysławowo"
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879175",
+    "subregion": {
+      "id": "58581a836630e24c44879175",
+      "name": "Ivory Coast ",
+      "forecasterEmail": "",
+      "country": "Ivory Coast",
+      "state": "Comoé",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879177",
+    "subregion": {
+      "id": "58581a836630e24c44879177",
+      "name": "Southeast Russia",
+      "forecasterEmail": "",
+      "country": "Russia",
+      "state": "",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879178",
+    "subregion": {
+      "id": "58581a836630e24c44879178",
+      "name": "Eastern Algeria",
+      "forecasterEmail": "",
+      "country": "Algeria",
+      "state": "El Tarf",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487917a",
+    "subregion": {
+      "id": "58581a836630e24c4487917a",
+      "name": "Nassau - Queens County",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "New York",
+      "territory": "Nassau County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487917e",
+    "subregion": {
+      "id": "58581a836630e24c4487917e",
+      "name": "North MI (Lake Michigan)",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "Michigan",
+      "territory": "Benzie County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879180",
+    "subregion": {
+      "id": "58581a836630e24c44879180",
+      "name": "East WI (Lake Michigan)",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "Wisconsin",
+      "territory": "Sheboygan County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879182",
+    "subregion": {
+      "id": "58581a836630e24c44879182",
+      "name": "West ON (Lake Superior)",
+      "forecasterEmail": "",
+      "country": "Canada",
+      "state": "Ontario",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879183",
+    "subregion": {
+      "id": "58581a836630e24c44879183",
+      "name": "Southwest ON (Lake Huron)",
+      "forecasterEmail": "",
+      "country": "Canada",
+      "state": "Ontario",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879184",
+    "subregion": {
+      "id": "58581a836630e24c44879184",
+      "name": "East ON (Lake Ontario)",
+      "forecasterEmail": "",
+      "country": "Canada",
+      "state": "Ontario",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879185",
+    "subregion": {
+      "id": "58581a836630e24c44879185",
+      "name": "North NY (Lake Ontario)",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "New York",
+      "territory": "Monroe County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879188",
+    "subregion": {
+      "id": "58581a836630e24c44879188",
+      "name": "North Cornwall",
+      "forecasterEmail": "",
+      "country": "United Kingdom",
+      "state": "England",
+      "territory": "Cornwall",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c44879189",
+    "subregion": {
+      "id": "58581a836630e24c44879189",
+      "name": "South Cornwall",
+      "forecasterEmail": "",
+      "country": "United Kingdom",
+      "state": "England",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487918a",
+    "subregion": {
+      "id": "58581a836630e24c4487918a",
+      "name": "South Devon",
+      "forecasterEmail": "",
+      "country": "United Kingdom",
+      "state": "England",
+      "territory": "Devon",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "58581a836630e24c4487918b",
+    "subregion": {
+      "id": "58581a836630e24c4487918b",
+      "name": "Dorset",
+      "forecasterEmail": "",
+      "country": "United Kingdom",
+      "state": "England",
+      "territory": "Dorset",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "595573ba31d48a00128db925",
+    "subregion": {
+      "id": "595573ba31d48a00128db925",
+      "name": "Nias",
+      "forecasterEmail": "",
+      "country": "Indonesia",
+      "state": "North Sumatra",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "5a68fe7a98cc4e001a162ad4",
+    "subregion": {
+      "id": "5a68fe7a98cc4e001a162ad4",
+      "name": "Maine",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "Maine",
+      "territory": "York County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "5a68fec76556ab001a43ccfc",
+    "subregion": {
+      "id": "5a68fec76556ab001a43ccfc",
+      "name": "New Hampshire",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "New Hampshire",
+      "territory": "Rockingham County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "5a68ff23597989001d887ca7",
+    "subregion": {
+      "id": "5a68ff23597989001d887ca7",
+      "name": "Delaware",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "Delaware",
+      "territory": "Sussex County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "5a68ff39daa79a001a9a81d7",
+    "subregion": {
+      "id": "5a68ff39daa79a001a9a81d7",
+      "name": "Maryland",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "Maryland",
+      "territory": "Worcester County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "5a69000b597989001d887ca8",
+    "subregion": {
+      "id": "5a69000b597989001d887ca8",
+      "name": "Indiana",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "Indiana",
+      "territory": "Porter County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "5a69002186293c00203edfb2",
+    "subregion": {
+      "id": "5a69002186293c00203edfb2",
+      "name": "Illinois",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "Illinois",
+      "territory": "Cook County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "5a6a50e3588618001a6510bd",
+    "subregion": {
+      "id": "5a6a50e3588618001a6510bd",
+      "name": "Minnesota",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "Minnesota",
+      "territory": "Saint Louis County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "5a6a50fb89a97c001ab4eba7",
+    "subregion": {
+      "id": "5a6a50fb89a97c001ab4eba7",
+      "name": "Wisconsin",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "Wisconsin",
+      "territory": "Bayfield County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "5a6a512027affc001ad9b8b6",
+    "subregion": {
+      "id": "5a6a512027affc001ad9b8b6",
+      "name": "Michigan (Lake Erie)",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "Michigan",
+      "territory": "Monroe County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "5a6a5142181177001ce155a3",
+    "subregion": {
+      "id": "5a6a5142181177001ce155a3",
+      "name": "Ohio (Lake Erie)",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "Ohio",
+      "territory": "Erie County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "5a6a5ade030a82001dc5dde3",
+    "subregion": {
+      "id": "5a6a5ade030a82001dc5dde3",
+      "name": "New York (Lake Erie)",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "New York",
+      "territory": "Erie County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "5a6a5b16181177001ce155a4",
+    "subregion": {
+      "id": "5a6a5b16181177001ce155a4",
+      "name": "Pennsylvania (Lake Erie)",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "Pennsylvania",
+      "territory": "Erie County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "5ac66cf033f21d001f2cdde3",
+    "subregion": {
+      "id": "5ac66cf033f21d001f2cdde3",
+      "name": "South Sumatra",
+      "forecasterEmail": "",
+      "country": "Indonesia",
+      "state": "",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "5ad63e474687f0001a3edf46",
+    "subregion": {
+      "id": "5ad63e474687f0001a3edf46",
+      "name": "Romania",
+      "forecasterEmail": "",
+      "country": "Romania",
+      "state": "",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "5ad788d232034d001afe2e1d",
+    "subregion": {
+      "id": "5ad788d232034d001afe2e1d",
+      "name": "Norfolk Island",
+      "forecasterEmail": "",
+      "country": "Australia",
+      "state": "Norfolk Island",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "5b0d8f6440e368001ab8e47b",
+    "subregion": {
+      "id": "5b0d8f6440e368001ab8e47b",
+      "name": "Southeast England",
+      "forecasterEmail": "",
+      "country": "United Kingdom",
+      "state": "England",
+      "territory": "Kent",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "5b60a5639c0292001aa51919",
+    "subregion": {
+      "id": "5b60a5639c0292001aa51919",
+      "name": "U.S. Wave Pool",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "California",
+      "territory": "Kings County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "5b8ec9e216e75f00014f83aa",
+    "subregion": {
+      "id": "5b8ec9e216e75f00014f83aa",
+      "name": "Cyprus",
+      "forecasterEmail": "",
+      "country": "Cyprus",
+      "state": "",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "5cc73566c30e4c0001096989",
+    "subregion": {
+      "id": "5cc73566c30e4c0001096989",
+      "name": "Pacifica-San Mateo County",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "California",
+      "territory": "San Mateo County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "5dbb4a298236730001d77fee",
+    "subregion": {
+      "id": "5dbb4a298236730001d77fee",
+      "name": "North New Jersey",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "New Jersey",
+      "territory": "Monmouth County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "5deecc4b17912b71be2c2e1c",
+    "subregion": {
+      "id": "5deecc4b17912b71be2c2e1c",
+      "name": "Palm Beach County",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "Florida",
+      "territory": "Palm Beach County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "5e556e9231e571b1a21d34a0",
+    "subregion": {
+      "id": "5e556e9231e571b1a21d34a0",
+      "name": "First Coast",
+      "forecasterEmail": "",
+      "country": "United States",
+      "state": "Florida",
+      "territory": "Duval County",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "5e7a7a7b82d78b49601cbbe4",
+    "subregion": {
+      "id": "5e7a7a7b82d78b49601cbbe4",
+      "name": "Lennox-Ballina",
+      "forecasterEmail": "",
+      "country": "Australia",
+      "state": "New South Wales",
+      "territory": "Ballina",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "5e7a7bef5d069f1a4292eae5",
+    "subregion": {
+      "id": "5e7a7bef5d069f1a4292eae5",
+      "name": "Evans Head - Yamba",
+      "forecasterEmail": "",
+      "country": "Australia",
+      "state": "New South Wales",
+      "territory": "Richmond Valley",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "5e7a7d295940cd99840fe01e",
+    "subregion": {
+      "id": "5e7a7d295940cd99840fe01e",
+      "name": "Sandon - Woolgoolga",
+      "forecasterEmail": "",
+      "country": "Australia",
+      "state": "New South Wales",
+      "territory": "Coffs Harbour",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "5e7a7e6bcf5d6513dd36c62b",
+    "subregion": {
+      "id": "5e7a7e6bcf5d6513dd36c62b",
+      "name": "Coffs Harbour",
+      "forecasterEmail": "",
+      "country": "Australia",
+      "state": "New South Wales",
+      "territory": "Coffs Harbour",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "5e7a8030af5f4117b6c30c90",
+    "subregion": {
+      "id": "5e7a8030af5f4117b6c30c90",
+      "name": "Mid North Coast",
+      "forecasterEmail": "",
+      "country": "Australia",
+      "state": "New South Wales",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "5e7a84768f869b5e1164a9e2",
+    "subregion": {
+      "id": "5e7a84768f869b5e1164a9e2",
+      "name": "Newcastle NSW",
+      "forecasterEmail": "",
+      "country": "Australia",
+      "state": "New South Wales",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "5e7a87a396c52e5c0884a189",
+    "subregion": {
+      "id": "5e7a87a396c52e5c0884a189",
+      "name": "Royal Nation Park",
+      "forecasterEmail": "",
+      "country": "Australia",
+      "state": "New South Wales",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "5e7a886a5e3ffff136e1b976",
+    "subregion": {
+      "id": "5e7a886a5e3ffff136e1b976",
+      "name": "Wollongong - Shoalhaven",
+      "forecasterEmail": "",
+      "country": "Australia",
+      "state": "New South Wales",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "600622afa88de7a948220a34",
+    "subregion": {
+      "id": "600622afa88de7a948220a34",
+      "name": "Eastern Ireland",
+      "forecasterEmail": "",
+      "country": "Ireland",
+      "state": "",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "60062819ddbfc31b05ec27c4",
+    "subregion": {
+      "id": "60062819ddbfc31b05ec27c4",
+      "name": "Southern Ireland",
+      "forecasterEmail": "",
+      "country": "Ireland",
+      "state": "Munster",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "60062c71644f1836c118ca86",
+    "subregion": {
+      "id": "60062c71644f1836c118ca86",
+      "name": "Causeway Coast",
+      "forecasterEmail": "",
+      "country": "Northern Ireland",
+      "state": "Causeway Coast and Glens",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "60071b558ef6612a14f6a226",
+    "subregion": {
+      "id": "60071b558ef6612a14f6a226",
+      "name": "Moray Firth",
+      "forecasterEmail": "",
+      "country": "United Kingdom",
+      "state": "",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "60077d0ad20f1c11caa5af58",
+    "subregion": {
+      "id": "60077d0ad20f1c11caa5af58",
+      "name": "Lithuania",
+      "forecasterEmail": "",
+      "country": "Lithuania",
+      "state": "Klaipėda County",
+      "territory": "Klaipėda",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "6008751acf5ce080d1ea47dc",
+    "subregion": {
+      "id": "6008751acf5ce080d1ea47dc",
+      "name": "Eastern Black Sea",
+      "forecasterEmail": "",
+      "country": "Russia",
+      "state": "Krasnodar",
+      "territory": "Sochi City",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "600875db40fc77171544b2d1",
+    "subregion": {
+      "id": "600875db40fc77171544b2d1",
+      "name": "Russia Baltic Sea",
+      "forecasterEmail": "",
+      "country": "Russia",
+      "state": "Kaliningrad",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "6008bafb34cce334a321b828",
+    "subregion": {
+      "id": "6008bafb34cce334a321b828",
+      "name": "Haida Gwaii",
+      "forecasterEmail": "",
+      "country": "Canada",
+      "state": "British Columbia",
+      "territory": "Skeena-Queen Charlotte Regional District",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "601c884109f0e9f205e77793",
+    "subregion": {
+      "id": "601c884109f0e9f205e77793",
+      "name": "Jeju Island",
+      "forecasterEmail": "",
+      "country": "South Korea",
+      "state": "Jeju-do",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "601d96b4c94e7a046a2ed148",
+    "subregion": {
+      "id": "601d96b4c94e7a046a2ed148",
+      "name": "Yellow Sea",
+      "forecasterEmail": "",
+      "country": "South Korea",
+      "state": "Chungcheongnam-do",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "601d9c1935d0fe17645f7d64",
+    "subregion": {
+      "id": "601d9c1935d0fe17645f7d64",
+      "name": "South Sea",
+      "forecasterEmail": "",
+      "country": "South Korea",
+      "state": "Jeollanam-do",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "603e8ff6cced20ebd83d3e76",
+    "subregion": {
+      "id": "603e8ff6cced20ebd83d3e76",
+      "name": "Corsica",
+      "forecasterEmail": "",
+      "country": "New Zealand",
+      "state": "Marlborough",
+      "territory": "Marlborough District",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "603fdc3c4141b1207c2156f4",
+    "subregion": {
+      "id": "603fdc3c4141b1207c2156f4",
+      "name": "Lower Egypt ",
+      "forecasterEmail": "",
+      "country": "Egypt",
+      "state": "",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "603ff6d06c6e8318d3576200",
+    "subregion": {
+      "id": "603ff6d06c6e8318d3576200",
+      "name": "Tunisia",
+      "forecasterEmail": "",
+      "country": "Tunisia",
+      "state": "Tunis",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "60510bc4f785e8673ed03b08",
+    "subregion": {
+      "id": "60510bc4f785e8673ed03b08",
+      "name": "Central Java",
+      "forecasterEmail": "",
+      "country": "Indonesia",
+      "state": "Central Java",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  },
+  {
+    "_id": "6075c9c31060f93d2e1bd260",
+    "subregion": {
+      "id": "6075c9c31060f93d2e1bd260",
+      "name": "International Wave Pools",
+      "forecasterEmail": "",
+      "country": "",
+      "state": "",
+      "territory": "",
+      "subterritory": "",
+      "subsubterritory": ""
+    }
+  }
+]

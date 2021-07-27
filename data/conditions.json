@@ -1,0 +1,429 @@
+{
+  "associated": {
+    "units": {
+      "temperature": "F",
+      "tideHeight": "FT",
+      "swellHeight": "FT",
+      "waveHeight": "FT",
+      "windSpeed": "MPH",
+      "model": "LOLA"
+    },
+    "utcOffset": -7
+  },
+  "data": {
+    "conditions": [
+      {
+        "timestamp": 1627369200,
+        "utcOffset": -7,
+        "forecaster": {
+          "name": "Keaton Browning",
+          "avatar": "https://www.gravatar.com/avatar/a7628271b83f93b6361514e747566ee4?d=mm"
+        },
+        "human": true,
+        "observation": "Early AM a bit drained but tide push through mid morning helps overall conditions. Easing SSW swell. Get it before next few days become rather small.",
+        "am": {
+          "maxHeight": 4,
+          "minHeight": 3,
+          "plus": true,
+          "humanRelation": "Waist to shoulder high",
+          "occasionalHeight": null,
+          "rating": "FAIR"
+        },
+        "pm": {
+          "maxHeight": 4,
+          "minHeight": 3,
+          "plus": false,
+          "humanRelation": "Waist to chest high",
+          "occasionalHeight": null,
+          "rating": "FAIR"
+        }
+      },
+      {
+        "timestamp": 1627455600,
+        "utcOffset": -7,
+        "forecaster": {
+          "name": "Keaton Browning",
+          "avatar": "https://www.gravatar.com/avatar/a7628271b83f93b6361514e747566ee4?d=mm"
+        },
+        "human": true,
+        "observation": "Small day for the longboards. Clean in the morning with the low tide. Tide push late morning will actually help out. Modest, long-period S/SW swells in the water.",
+        "am": {
+          "maxHeight": 3,
+          "minHeight": 2,
+          "plus": true,
+          "humanRelation": "Waist to stomach high",
+          "occasionalHeight": null,
+          "rating": "FAIR"
+        },
+        "pm": {
+          "maxHeight": 3,
+          "minHeight": 2,
+          "plus": true,
+          "humanRelation": "Waist to stomach high",
+          "occasionalHeight": null,
+          "rating": "FAIR"
+        }
+      },
+      {
+        "timestamp": 1627542000,
+        "utcOffset": -7,
+        "forecaster": {
+          "name": "Keaton Browning",
+          "avatar": "https://www.gravatar.com/avatar/a7628271b83f93b6361514e747566ee4?d=mm"
+        },
+        "human": true,
+        "observation": "Another small day for the bigger boards or beginners. Clean in the morning with the low tide. Modest, long-period S/SW swells in the water.",
+        "am": {
+          "maxHeight": 3,
+          "minHeight": 2,
+          "plus": true,
+          "humanRelation": "Waist to stomach high",
+          "occasionalHeight": null,
+          "rating": "FAIR"
+        },
+        "pm": {
+          "maxHeight": 3,
+          "minHeight": 2,
+          "plus": true,
+          "humanRelation": "Waist to stomach high",
+          "occasionalHeight": null,
+          "rating": "FAIR"
+        }
+      },
+      {
+        "timestamp": 1627628400,
+        "utcOffset": -7,
+        "forecaster": {
+          "name": "Keaton Browning",
+          "avatar": "https://www.gravatar.com/avatar/a7628271b83f93b6361514e747566ee4?d=mm"
+        },
+        "human": true,
+        "observation": "Smaller surf with lingering blend of southerly swell leftovers. On the slower side first thing in the morning and getting even slower on the afternoon high tide so try to work around those windows.",
+        "am": {
+          "maxHeight": 3,
+          "minHeight": 2,
+          "plus": false,
+          "humanRelation": "Thigh to waist high",
+          "occasionalHeight": null,
+          "rating": "FAIR"
+        },
+        "pm": {
+          "maxHeight": 3,
+          "minHeight": 2,
+          "plus": false,
+          "humanRelation": "Thigh to waist high",
+          "occasionalHeight": null,
+          "rating": "POOR_TO_FAIR"
+        }
+      },
+      {
+        "timestamp": 1627714800,
+        "utcOffset": -7,
+        "forecaster": {
+          "name": "Keaton Browning",
+          "avatar": "https://www.gravatar.com/avatar/a7628271b83f93b6361514e747566ee4?d=mm"
+        },
+        "human": true,
+        "observation": "Smaller surf as modest new SW swell creeps in. On the slower side first thing in the morning and getting even slower on the afternoon high tide so try to work around those windows.",
+        "am": {
+          "maxHeight": 3,
+          "minHeight": 2,
+          "plus": false,
+          "humanRelation": "Thigh to waist high",
+          "occasionalHeight": null,
+          "rating": "FAIR"
+        },
+        "pm": {
+          "maxHeight": 3,
+          "minHeight": 2,
+          "plus": false,
+          "humanRelation": "Thigh to waist high",
+          "occasionalHeight": null,
+          "rating": "POOR_TO_FAIR"
+        }
+      },
+      {
+        "timestamp": 1627801200,
+        "utcOffset": -7,
+        "forecaster": {
+          "name": "Keaton Browning",
+          "avatar": "https://www.gravatar.com/avatar/a7628271b83f93b6361514e747566ee4?d=mm"
+        },
+        "human": true,
+        "observation": "Modest size, clean morning. SW swell holds, new SSW swell building through the afternoon/evening but surf will be slowed by the higher tide then.",
+        "am": {
+          "maxHeight": 3,
+          "minHeight": 2,
+          "plus": true,
+          "humanRelation": "Waist to stomach high",
+          "occasionalHeight": null,
+          "rating": "FAIR"
+        },
+        "pm": {
+          "maxHeight": 3,
+          "minHeight": 2,
+          "plus": true,
+          "humanRelation": "Waist to stomach high",
+          "occasionalHeight": 4,
+          "rating": "FAIR"
+        }
+      },
+      {
+        "timestamp": 1627887600,
+        "utcOffset": -7,
+        "forecaster": {
+          "name": "Keaton Browning",
+          "avatar": "https://www.gravatar.com/avatar/a7628271b83f93b6361514e747566ee4?d=mm"
+        },
+        "human": true,
+        "observation": "A bit sluggish the mid tide in the morning but new SSW swell on the rise. Tides stay above 3' all day so seek out spots that don't mind a little water.",
+        "am": {
+          "maxHeight": 4,
+          "minHeight": 3,
+          "plus": false,
+          "humanRelation": "Waist to chest high",
+          "occasionalHeight": null,
+          "rating": "FAIR_TO_GOOD"
+        },
+        "pm": {
+          "maxHeight": 5,
+          "minHeight": 3,
+          "plus": false,
+          "humanRelation": "Waist to head high",
+          "occasionalHeight": null,
+          "rating": "FAIR"
+        }
+      },
+      {
+        "timestamp": 1627974000,
+        "utcOffset": -7,
+        "forecaster": null,
+        "human": false,
+        "observation": "Fun sized short period waves from the NW. Light and variable winds with clean conditions.",
+        "am": {
+          "maxHeight": 4,
+          "minHeight": 3,
+          "plus": false,
+          "humanRelation": "Waist to chest high",
+          "occasionalHeight": null,
+          "rating": null
+        },
+        "pm": {
+          "maxHeight": 4,
+          "minHeight": 3,
+          "plus": false,
+          "humanRelation": "Waist to chest high",
+          "occasionalHeight": null,
+          "rating": null
+        }
+      },
+      {
+        "timestamp": 1628060400,
+        "utcOffset": -7,
+        "forecaster": null,
+        "human": false,
+        "observation": "Fun sized short period waves from the NW. Light and variable winds with clean conditions.",
+        "am": {
+          "maxHeight": 5,
+          "minHeight": 3,
+          "plus": false,
+          "humanRelation": "Waist to head high",
+          "occasionalHeight": null,
+          "rating": null
+        },
+        "pm": {
+          "maxHeight": 5,
+          "minHeight": 3,
+          "plus": false,
+          "humanRelation": "Waist to head high",
+          "occasionalHeight": null,
+          "rating": null
+        }
+      },
+      {
+        "timestamp": 1628146800,
+        "utcOffset": -7,
+        "forecaster": null,
+        "human": false,
+        "observation": "Fun sized short period waves from the NW. Light and variable winds with clean conditions.",
+        "am": {
+          "maxHeight": 4,
+          "minHeight": 3,
+          "plus": false,
+          "humanRelation": "Waist to chest high",
+          "occasionalHeight": null,
+          "rating": null
+        },
+        "pm": {
+          "maxHeight": 4,
+          "minHeight": 3,
+          "plus": false,
+          "humanRelation": "Waist to chest high",
+          "occasionalHeight": null,
+          "rating": null
+        }
+      },
+      {
+        "timestamp": 1628233200,
+        "utcOffset": -7,
+        "forecaster": null,
+        "human": false,
+        "observation": "Fun sized mid period waves from the SSW. Light and variable winds with clean conditions.",
+        "am": {
+          "maxHeight": 3,
+          "minHeight": 2,
+          "plus": true,
+          "humanRelation": "Waist to stomach high",
+          "occasionalHeight": null,
+          "rating": null
+        },
+        "pm": {
+          "maxHeight": 3,
+          "minHeight": 2,
+          "plus": true,
+          "humanRelation": "Waist to stomach high",
+          "occasionalHeight": null,
+          "rating": null
+        }
+      },
+      {
+        "timestamp": 1628319600,
+        "utcOffset": -7,
+        "forecaster": null,
+        "human": false,
+        "observation": "Fun sized short period waves from the WNW. Light and variable winds with clean conditions.",
+        "am": {
+          "maxHeight": 4,
+          "minHeight": 3,
+          "plus": false,
+          "humanRelation": "Waist to chest high",
+          "occasionalHeight": null,
+          "rating": null
+        },
+        "pm": {
+          "maxHeight": 5,
+          "minHeight": 3,
+          "plus": false,
+          "humanRelation": "Waist to head high",
+          "occasionalHeight": null,
+          "rating": null
+        }
+      },
+      {
+        "timestamp": 1628406000,
+        "utcOffset": -7,
+        "forecaster": null,
+        "human": false,
+        "observation": "Moderate long period waves from the S. Light and variable winds with clean conditions.",
+        "am": {
+          "maxHeight": 5,
+          "minHeight": 4,
+          "plus": false,
+          "humanRelation": "Chest to head high",
+          "occasionalHeight": null,
+          "rating": null
+        },
+        "pm": {
+          "maxHeight": 6,
+          "minHeight": 4,
+          "plus": false,
+          "humanRelation": "Shoulder high to 1 ft. overhead",
+          "occasionalHeight": null,
+          "rating": null
+        }
+      },
+      {
+        "timestamp": 1628492400,
+        "utcOffset": -7,
+        "forecaster": null,
+        "human": false,
+        "observation": "Moderate long period waves from the S. Light and variable winds with clean conditions.",
+        "am": {
+          "maxHeight": 6,
+          "minHeight": 4,
+          "plus": false,
+          "humanRelation": "Shoulder high to 1 ft. overhead",
+          "occasionalHeight": null,
+          "rating": null
+        },
+        "pm": {
+          "maxHeight": 6,
+          "minHeight": 4,
+          "plus": false,
+          "humanRelation": "Shoulder high to 1 ft. overhead",
+          "occasionalHeight": null,
+          "rating": null
+        }
+      },
+      {
+        "timestamp": 1628578800,
+        "utcOffset": -7,
+        "forecaster": null,
+        "human": false,
+        "observation": "Moderate mid period waves from the S. Light and variable winds with clean conditions.",
+        "am": {
+          "maxHeight": 6,
+          "minHeight": 4,
+          "plus": false,
+          "humanRelation": "Shoulder high to 1 ft. overhead",
+          "occasionalHeight": null,
+          "rating": null
+        },
+        "pm": {
+          "maxHeight": 7,
+          "minHeight": 5,
+          "plus": false,
+          "humanRelation": "Head high to 2 ft. overhead",
+          "occasionalHeight": null,
+          "rating": null
+        }
+      },
+      {
+        "timestamp": 1628665200,
+        "utcOffset": -7,
+        "forecaster": null,
+        "human": false,
+        "observation": "Moderate mid period waves from the S. Light and variable winds with clean conditions.",
+        "am": {
+          "maxHeight": 7,
+          "minHeight": 5,
+          "plus": false,
+          "humanRelation": "Head high to 2 ft. overhead",
+          "occasionalHeight": null,
+          "rating": null
+        },
+        "pm": {
+          "maxHeight": 7,
+          "minHeight": 5,
+          "plus": false,
+          "humanRelation": "Head high to 2 ft. overhead",
+          "occasionalHeight": null,
+          "rating": null
+        }
+      },
+      {
+        "timestamp": 1628751600,
+        "utcOffset": -7,
+        "forecaster": null,
+        "human": false,
+        "observation": "Moderate long period waves from the S. Light and variable winds with clean conditions.",
+        "am": {
+          "maxHeight": 7,
+          "minHeight": 5,
+          "plus": false,
+          "humanRelation": "Head high to 2 ft. overhead",
+          "occasionalHeight": null,
+          "rating": null
+        },
+        "pm": {
+          "maxHeight": 6,
+          "minHeight": 4,
+          "plus": false,
+          "humanRelation": "Shoulder high to 1 ft. overhead",
+          "occasionalHeight": null,
+          "rating": null
+        }
+      }
+    ]
+  }
+}
