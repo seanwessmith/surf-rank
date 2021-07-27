@@ -1,6 +1,7 @@
 import { SurfRating } from '../store/surfContext';
 
 const rankRating = (rating: SurfRating) => {
+  const cleanRating = rating.replace(/_/g, ' ').toUpperCase() as SurfRating;
   const rankChart = {
     'FLAT': 0,
     'VERY POOR': 1,
@@ -14,7 +15,7 @@ const rankRating = (rating: SurfRating) => {
     'EPIC': 9,
   };
 
-  return rankChart[rating];
+  return rankChart[cleanRating];
 }
 
 export default rankRating;

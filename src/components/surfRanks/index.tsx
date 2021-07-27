@@ -6,29 +6,40 @@ import rankRating from "../../shared/rankRating";
 
 const SurfRanks = () => {
   const { conditions } = useContext(SurfContext);
+  const ratingCount: any = {};
+  for (const condition of conditions) {
+    if (!ratingCount[condition?.am.rating]) {
+      ratingCount[condition?.am.rating] = 1;
+    } else {
+      ratingCount[condition?.am.rating]++;
+    }
+  }
+  console.log(ratingCount);
   const sortedConditions = conditions.sort((a, b) => {
+    if (!a?.am?.rating || !b?.am?.rating || a?.am?.rating === b?.am?.rating) {
+      return 0;
+    }
     if (rankRating(a?.am?.rating) > rankRating(b?.am?.rating)) {
       return -1;
     }
-    if (rankRating(a?.am?.rating) < rankRating(b?.am?.rating)) {
-      return 1;
-    }
-    return 0;
+    return 1;
   });
   const topTen = sortedConditions.slice(0, 10);
 
   console.log("topTen: ", topTen);
 
   const row = (surf: SurfConditions) => {
-    console.log("surf", surf);
+    const path = surf.subregion.name.replace(/\s/g, "-").toLowerCase();
 
     return (
-      <div className="surf-row">
-        <p>{`${surf.subregion.country} ${surf.subregion.state} ${surf.subregion.territory} ${surf.subregion.subterritory} ${surf.subregion.subsubterritory}`}</p>
+      <div key={surf.subregion.id} className="surf-row">
+        <a target='_blank' href={`https://www.surfline.com/surf-report/${path}/${surf.subregion.id}`}>
+          {`${surf.subregion.country} ${surf.subregion.state} ${surf.subregion.territory} ${surf.subregion.subterritory} ${surf.subregion.subsubterritory}`}
+        </a>
         <div className="conditions-summary">
           <div className="conditions">
             <div
-              className={`condition condition-${surf.pm.rating.toLowerCase()}`}
+              className={`condition condition-${surf.am.rating.toLowerCase()}`}
             >
               <span className="condition_rating">{surf.am.rating}</span>
               <span className="condition_ampm">AM</span>

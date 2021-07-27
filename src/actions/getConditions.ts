@@ -42,7 +42,7 @@ interface SurfSpot {
 
 const getSurfConditions = async (): Promise<SurfConditions[]> => {
   let surfConditions: SurfConditions[] = [];
-  const surfSpot = ((surfSpots as unknown) as SurfSpot[]).slice(0, 500);
+  const surfSpot = ((surfSpots as unknown) as SurfSpot[]);
   const promArray = [];
   const subregions: SubRegion[] = [];
 

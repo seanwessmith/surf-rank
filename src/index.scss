@@ -16,8 +16,12 @@ $gutter-vertical: 4rem;
     justify-content: space-between;
     width: fit-content;
 
-    p {
+    a {
       width: 400px;
+      color: #333;
+      text-decoration: none;
+      margin-top: 15px;
+      height: 17px;
     }
 
     .conditions-summary {
@@ -29,7 +33,7 @@ $gutter-vertical: 4rem;
         font-size: 12px;
         height: 24px;
         margin: 8px auto;
-        .condition-poor, .condition-flat {
+        .condition-poor, .condition-poor_to_fair, .condition-flat {
           background-color: #42a5fc;
           &:first-child::after {
             border-top: 24px solid #42a5fc;
@@ -38,7 +42,7 @@ $gutter-vertical: 4rem;
             border-bottom: 24px solid #42a5fc;
           }
         }
-        .condition-fair {
+        .condition-fair, .condition-fair_to_good {
           background-color: #23d737;
           &:first-child::after {
             border-top: 24px solid #23d737;
@@ -47,7 +51,7 @@ $gutter-vertical: 4rem;
             border-bottom: 24px solid #23d737;
           }
         }
-        .condition-very_good {
+        .condition-very_good, .condition-good {
           background-color: #ff8309;
           &:first-child::after {
             border-top: 24px solid #ff8309;
